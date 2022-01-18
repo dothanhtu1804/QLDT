@@ -1,0 +1,72 @@
+﻿.container3 {
+    width: 720px;
+    margin: 0px auto;
+}
+
+.form-login-wrapper {
+    background-color: #fff;
+    margin: 40px 0px;
+    padding: 20px;
+}
+
+#form-login {
+    padding: 20px;
+}
+
+    #form-login h1 {
+        text-align: center;
+        color: #ed3324;
+        font-weight: 700;
+        padding: 10px;
+    }
+
+    #form-login input {
+        display: block;
+        margin: 0px auto;
+        margin-bottom: 20px;
+        padding: 10px;
+        width: 80%;
+        color: #3f3f3f;
+        border-radius: 2px;
+        border: 1px solid #ced4da;
+    }
+
+    #form-login a {
+        color: #3f3f3f;
+    }
+
+    #form-login button {
+        height: 60px;
+        background-color: #ed3324;
+        width: 80%;
+        cursor: pointer;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #f4f4f4;
+        border: none;
+        border-radius: 5px;
+        margin: 0px auto;
+        margin-top: 20px;
+        font-size: 30px;
+        padding: 10px;
+        margin-bottom: 20px;
+    }
+
+        #form-login button img {
+            width: 30px;
+            height: 30px;
+        }
+
+        #form-login button:hover {
+            background-color: #fa6f65;
+            transition: all 0.5s ease;
+        }
+
+.dash3 {
+    width: 200px;
+    height: 2.5px;
+    background-color: #ed3324;
+    margin: 0px auto;
+    margin-bottom: 20px;
+}

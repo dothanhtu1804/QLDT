@@ -1,0 +1,553 @@
+﻿@model demoTMDT.Models.DienThoai
+
+@{
+    ViewBag.Title = "CT_SP";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var cmt = (List<demoTMDT.Models.Comment>)ViewBag.cmt;
+}
+
+
+<style>
+
+    .title-product {
+        padding: 0px;
+    }
+
+
+    .content {
+        width: 100%;
+        padding: 15px;
+    }
+
+    .img-product img {
+        width: 100%;
+        height: 350px;
+        border: 1px solid rgb(224, 224, 224);
+        margin: 5px 0px;
+        object-fit: scale-down;
+    }
+
+    .item {
+        width: 23%;
+        border: 1px solid rgb(224, 224, 224);
+        text-align: center;
+        border-radius: 3px;
+        padding-top: 10px;
+    }
+
+        .item a {
+            color: black;
+        }
+
+        .item img {
+            width: 80%;
+            height: 50px;
+        }
+
+        .item a:hover {
+            color: #e12600;
+        }
+
+    .detail-product {
+        margin-top: 10px;
+    }
+
+        .detail-product b {
+            font-weight: bold;
+            float: left;
+            margin-right: 2px;
+        }
+
+    .price {
+        font-weight: bold;
+        color: #e12600;
+        font-size: 24px;
+    }
+
+    .delivery img {
+        position: relative;
+        bottom: 5px;
+        width: 10px;
+        height: 20px;
+    }
+
+    .delivery span {
+        color: #00b517;
+        font-size: 14px;
+        font-weight: bold;
+        padding-left: 2px;
+    }
+
+    .insurance b {
+        font-weight: bold;
+        margin-right: 3px;
+    }
+
+    .promotion {
+        border: 1px solid rgb(224, 224, 224);
+        border-radius: 10px;
+    }
+
+        .promotion h5 {
+            font-weight: bold;
+            border-bottom: 1px solid rgb(224, 224, 224);
+        }
+
+    .textwidget img {
+        height: 40px;
+        width: 30%;
+    }
+
+    .textwidget ul {
+        padding: 10px;
+        margin: 0px;
+    }
+
+        .textwidget ul li {
+            list-style: none;
+        }
+
+            .textwidget ul li i {
+                margin-right: 5px;
+                color: #e12600;
+            }
+
+    .button-submit {
+        width: 100%;
+        background-color: red;
+        border: 1px solid #e12600;
+        border-radius: 3px;
+        color: #fff;
+        transition: all 0.25s;
+        text-decoration: none;
+    }
+
+        .button-submit:hover {
+            background-color: #e12600;
+        }
+
+        .button-submit i {
+            font-size: 30px;
+            position: relative;
+            top: 6px;
+            left: 60px;
+        }
+
+        .button-submit span {
+            width: 100%;
+            margin: 0px;
+            margin-left: 50%;
+            display: block;
+            text-align: left;
+        }
+
+    .hotline {
+        border: 1px solid rgb(224, 224, 224);
+        border-radius: 5px;
+        background-color: #f1f1f1;
+        padding: 0px 10px;
+    }
+
+        .hotline p {
+            text-align: center;
+        }
+
+            .hotline p span {
+                font-weight: bold;
+                color: #e12600;
+            }
+
+    .commit {
+        border: 1px solid #b7b7b7;
+        border-radius: 10px;
+    }
+
+        .commit h5 {
+            text-transform: uppercase;
+            font-weight: 400;
+            font-size: 12px;
+            top: -11px;
+            left: 28px;
+            position: absolute;
+            border: 1px solid #b7b7b7;
+            padding: 3px 5px;
+            background: #fff;
+            color: #000;
+        }
+
+    .branch-system {
+        border: 1px solid #b7b7b7;
+        border-radius: 10px;
+    }
+
+        .branch-system h5 {
+            text-transform: uppercase;
+            font-weight: 400;
+            font-size: 12px;
+            top: 166px;
+            left: 28px;
+            position: absolute;
+            border: 1px solid #b7b7b7;
+            padding: 3px 5px;
+            background: #fff;
+            color: #000;
+        }
+
+    .endow {
+        border: 1px solid #b7b7b7;
+        border-radius: 10px;
+    }
+
+        .endow h5 {
+            text-transform: uppercase;
+            font-weight: 400;
+            font-size: 12px;
+            top: 342px;
+            left: 28px;
+            position: absolute;
+            border: 1px solid #b7b7b7;
+            padding: 3px 5px;
+            background: #fff;
+            color: #000;
+        }
+
+    .payments {
+        border: 1px solid #b7b7b7;
+        border-radius: 10px;
+    }
+
+        .payments h5 {
+            text-transform: uppercase;
+            font-weight: 400;
+            font-size: 12px;
+            top: 515px;
+            left: 28px;
+            position: absolute;
+            border: 1px solid #b7b7b7;
+            padding: 3px 5px;
+            background: #fff;
+            color: #000;
+        }
+
+    .general-content h5 {
+        font-weight: bold;
+        border-bottom: 1px solid rgb(224, 224, 224);
+    }
+
+    .tablespec h5 {
+        font-weight: bold;
+        border-bottom: 1px solid rgb(224, 224, 224);
+    }
+
+    .tablespec table tbody tr th {
+        width: 50%;
+        color: #969696;
+        padding: 10px 30px 10px 10px;
+    }
+
+    .tablespec table tbody tr td {
+        width: 50%;
+    }
+
+    .tablespec table tbody tr {
+        padding: 10px;
+        width: 100%;
+        border-bottom: 1px solid rgba(0, 0, 0, .1);
+    }
+
+        .tablespec table tbody tr:nth-child(2n) {
+            background-color: #f9f9f9;
+        }
+
+
+    /* comment */
+
+
+    .main-cmt img {
+        position: absolute;
+        width: 50px;
+        height: 50px;
+        padding: 0;
+    }
+
+    .body-cmt {
+        margin-left: 70px;
+    }
+
+    .commentator p {
+        font-weight: 600;
+    }
+
+    .name-product p {
+        font-weight: 600;
+        color: #5f5e5e;
+    }
+
+    .children {
+        background-color: #f5f5f5;
+        list-style-type: none;
+        padding: 20px;
+    }
+
+        .children li:before {
+            position: absolute;
+            top: 440px;
+            left: 30px;
+            width: 0px;
+            height: 0px;
+            border-left: 10px solid transparent;
+            border-right: 10px solid transparent;
+            border-bottom: 10px solid #f5f5f5;
+            content: " ";
+        }
+
+
+</style>
+<script>
+    $(document).ready(function () {
+        var src_img_click;
+        $(".item a").click(function () {
+            src_img_click = $(this).children("img").attr("src");
+            $(".img-product img").attr('src', src_img_click);
+            return false;
+        });
+    });
+</script>
+
+<div class="container mt-5" style="background-color: white;">
+    <div class="content">
+        <div class="title-product py-1 pl-4">
+            <h1>@Html.DisplayFor(model => model.TenDT)</h1>
+        </div>
+        <div class="row">
+            <div class="col-md-5 img-product">
+                <img src=" @Url.Content(Model.hinh1)" height="200" width="200" />
+                <div class="d-flex" style="justify-content:space-between">
+                    <div class="item">
+                        <a href="" style="text-decoration: none;">
+                            <i class="far fa-images"></i>
+                            <p>Thư viện</p>
+                        </a>
+                    </div>
+                    <div class="item">
+                        <a href="" style="text-decoration: none;">
+                            <i class="fas fa-film"></i>
+                            <p>Video</p>
+                        </a>
+                    </div>
+                    <div class="item">
+                        <a href="" style="text-decoration: none;">
+                            <i class="far fa-file-alt"></i>
+                            <p>Tin tức</p>
+                        </a>
+                    </div>
+                    <div class="item">
+                        <a href="" style="text-decoration: none;">
+                            <i class="far fa-comments"></i>
+                            <p>Đánh giá</p>
+                        </a>
+                    </div>
+                </div>
+                <div class="detail-product">
+                    <b>Mô tả sản phẩm:</b>
+                    <p>
+                        Máy mới nguyên seal Fullbox chính hãng VN/A, chưa Active. Bảo hành 12 tháng tại trung tâm
+                        bảo hành ủy quyền chính hãng.
+                    </p>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <span class="price">@Html.DisplayFor(model => model.Gia)đ</span>
+                <form action="">
+                    <div class="delivery d-flex">
+                        <img src="https://clickbuy.com.vn/assets/arrow_right.png" alt="">
+                        <img src="https://clickbuy.com.vn/assets/arrow_right.png" alt="">
+                        <img src="https://clickbuy.com.vn/assets/arrow_right.png" alt="">
+                        <span>ClickBuy Now - Giao hàng siêu tốc 1h</span>
+                    </div>
+                    <div class="d-flex" style="justify-content:space-between; margin-top: 20px;">
+                        <div class="item">
+                            <a href="" style="text-decoration: none;">
+                                <p class="reset-size"> @Html.DisplayFor(model => model.mau3)</p>
+                                <img src=" @Url.Content(Model.hinh3)" />
+                            </a>
+                        </div>
+                        <div class="item">
+                            <a href="" style="text-decoration: none;">
+                                <p class="reset-size"> @Html.DisplayFor(model => model.mau2)</p>
+                                <img src=" @Url.Content(Model.hinh2)" />
+                            </a>
+                        </div>
+                        <div class="item">
+                            <a href="" style="text-decoration: none;">
+                                <p class="reset-size"> @Html.DisplayFor(model => model.mau1)</p>
+                                <img src=" @Url.Content(Model.hinh1)" />
+                            </a>
+                        </div>
+                    </div>
+                    <div class="insurance mt-3 d-flex">
+                        <b>Bảo hành:</b>
+                        <p> iCare - 1 đổi 1 trong 1 năm</p>
+                    </div>
+                    <div class="promotion">
+                        <h5 class="p-3">KHUYẾN MÃI</h5>
+                        <div class="textwidget">
+                            <ul>
+                                <li><i class="fas fa-gift"></i>Thu cũ đổi mới – Trợ giá 1.000.000đ </li>
+                                <li><i class="fas fa-gift"></i>Giảm thêm 1% cho khách hàng cũ </li>
+                                <li><i class="fas fa-gift"></i>Giảm giá 5% khi mua phụ kiện</li>
+                                <li>
+                                    <i class="fas fa-gift"></i>Tặng phiếu mua hàng trị giá 200.000đ sử dụng khi
+                                    mua laptop
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <a href="/GioHang/AddTo/@Model.IdDT" class="button-submit mt-4 d-flex" style="color:#fff; text-decoration:none;">
+                        <i class="fas fa-cart-arrow-down"></i>
+                        <div>
+                            <span>MUA NGAY</span>
+                            <span>GIAO HÀNG TẬN NƠI</span>
+                        </div>
+                    </a>
+                    <div class="hotline mt-3">
+                        <p class="reset-size">Gọi <span>096.606.2468</span> hoặc <span>0246.328.9494</span></p>
+                        <p class="reset-size">để được tư vấn (Từ 8:00 - 22:00)</p>
+                    </div>
+                </form>
+            </div>
+            <div class="col-md-3">
+                <div class="commit p-1">
+                    <h5>CLICKBUY CAM KẾT</h5>
+                    <div class="textwidget">
+                        <ul>
+                            <li><i class="fas fa-thumbs-up" style="color: yellowgreen;"></i>Clickbuy Cam kết máy bán ra chính hãng VN/A. Giá đã bao gồm VAT</li>
+                            <li><i class="fas fa-thumbs-up" style="color: yellowgreen;"></i>Bảo hành 12 tháng tại trung tâm bảo hành ủy quyền chính hãng</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="branch-system p-1 mt-4">
+                    <h5>HỆ THỐNG CỬA HÀNG</h5>
+                    <div class="textwidget">
+                        <ul>
+                            <li><i class="fas fa-map-marked" style="color: yellowgreen;"></i>Clickbuy Cam kết máy bán ra chính hãng VN/A. Giá đã bao gồm VAT</li>
+                            <li><i class="fas fa-map-marked" style="color: yellowgreen;"></i>Bảo hành 12 tháng tại trung tâm bảo hành ủy quyền chính hãng</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="endow p-1 mt-4">
+                    <h5>ƯU ĐÃI TRẢ GÓP</h5>
+                    <div class="textwidget">
+                        <ul>
+                            <li><i class="fas fa-check-circle" style="color: yellowgreen;"></i>Clickbuy Cam kết máy bán ra chính hãng VN/A. Giá đã bao gồm VAT</li>
+                            <li><i class="fas fa-check-circle" style="color: yellowgreen;"></i>Bảo hành 12 tháng tại trung tâm bảo hành ủy quyền chính hãng</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="payments p-1 mt-4">
+                    <h5>PHƯƠNG THỨC THANH TOÁN</h5>
+                    <div class="textwidget d-flex" style="justify-content:space-around">
+                        <img src="https://clickbuy.com.vn/assets/visa.png" alt="">
+                        <img src="https://clickbuy.com.vn/assets/tienmat.png" alt="">
+                        <img src="https://clickbuy.com.vn/assets/internetbanking.png" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+}
+<div class="container mt-4 mb-4" style="background-color: white;">
+    <div class="row pb-5" style="width:100%">
+        <div class="col-md-8">
+            <div class="general-content">
+                <h5 class="p-3">Bình luận</h5>
+                
+            </div>
+            @foreach (var x in cmt)
+            {
+                if (x.Parent == null)
+                {
+                    <div class="comment">
+                        <div class="main-cmt">
+                            <img src="https://static.yeah1.com/uploads/editors/27/2020/03/21/JaZBMzV14fzRI4vBWG8jymplSUGSGgimkqtJakOV.jpeg"
+                                 alt="">
+                            <div class="body-cmt">
+                                <div class="commentator d-flex">
+                                    <p>@Html.DisplayFor(model => x.TenKH)</p>
+                                    <span>-</span>
+                                    <p>@Html.DisplayFor(model => x.NgayCMT)</p>
+                                </div>
+                                <div class="name-product d-flex">
+                                    <p>Tên Sản Phẩm:</p>
+                                    <p>@Html.DisplayFor(model => x.TenSP)</p>
+                                </div>
+                                <div class="cmt">
+                                    <p>@Html.DisplayFor(model => x.Comment1)</p>
+                                </div>
+                            </div>
+                        </div>
+                        @{Html.RenderAction("_ChildComment", "ListDT", new { id = x.ID });}
+                        
+                    </div>
+                }
+            }
+            <a href="/ListDT/Create" class="btn btn-danger" style="float:right;">Viết bình luận</a>
+        </div>
+        <div class="col-md-4">
+            <div class="tablespec">
+                <h5 class="p-3">Thông số kỹ thuật</h5>
+                <table>
+                    <tbody>
+                        <tr>
+                            <th>Bộ nhớ trong</th>
+                            <td>256 GB</td>
+                        </tr>
+                        <tr>
+                            <th>RAM</th>
+                            <td>6 GB</td>
+                        </tr>
+                        <tr>
+                            <th>CPU</th>
+                            <td>Apple A15 Bionic Chip</td>
+                        </tr>
+                        <tr>
+                            <th>Kích thước màn hình</th>
+                            <td>6.7 inches</td>
+                        </tr>
+                        <tr>
+                            <th>Camera chính</th>
+                            <td>Cảm biến LiDAR</td>
+                        </tr>
+                        <tr>
+                            <th>Camera phụ</th>
+                            <td>12 MP</td>
+                        </tr>
+                        <tr>
+                            <th>Hệ điều hành</th>
+                            <td>IOS 15</td>
+                        </tr>
+                        <tr>
+                            <th>Thẻ sim</th>
+                            <td>1 nano SIM + 1 eSIM</td>
+                        </tr>
+                        <tr>
+                            <th>Dung lượng pin</th>
+                            <td>4352</td>
+                        </tr>
+                    </tbody>
+                </table>
+
+            </div>
+
+        </div>
+        
+    </div>
+    
+</div>
+
+<!-- end Phone -->
+
+
+
+

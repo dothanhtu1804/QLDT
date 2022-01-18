@@ -1,0 +1,110 @@
+﻿@model demoTMDT.Models.KhuyenMai
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/Admin.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>KhuyenMai</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.IdKM)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IdKM)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MaKM)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MaKM)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ChiTiet)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ChiTiet)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.HinhThucGiam)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HinhThucGiam)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SoLuong)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SoLuong)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NgayBatDau)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NgayBatDau)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NgayKetThuc)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NgayKetThuc)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TongSoLuong)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TongSoLuong)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SoLuongConLai)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SoLuongConLai)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TinhTrang)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TinhTrang)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.HinhAnh)
+        </dt>
+
+        <dd>
+            <img src="@Url.Content(Model.HinhAnh)" style="width:100px; height:150px" />
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new {  id = Model.IdKM }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
+
+
+

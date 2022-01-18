@@ -1,0 +1,115 @@
+﻿@model demoTMDT.Models.DienThoai
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/NVKHO.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>DienThoai</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.IdDT)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IdDT)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TenDT)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TenDT)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Mota)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Mota)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SoLuong)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SoLuong)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Gia)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Gia)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.hinh1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.hinh1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.mau1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.mau1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.hinh2)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.hinh2)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.mau2)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.mau2)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.hinh3)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.hinh3)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.mau3)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.mau3)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ChiTiet)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ChiTiet)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

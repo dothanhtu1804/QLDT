@@ -1,0 +1,1483 @@
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\demoTMDT.dll.config
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\demoTMDT.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\demoTMDT.pdb
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\csc.exe
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\csc.exe.config
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\csc.rsp
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\csi.exe
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\csi.exe.config
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\csi.rsp
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.AppContext.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Collections.Immutable.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Console.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.IO.Compression.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.IO.FileSystem.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.IO.Pipes.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Reflection.Metadata.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.AccessControl.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Claims.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.ValueTuple.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Xml.XPath.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\vbc.exe
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\vbc.exe.config
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\vbc.rsp
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\VBCSCompiler.exe
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\VBCSCompiler.exe.config
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\Antlr3.Runtime.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\EntityFramework.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\EntityFramework.SqlServer.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.Web.Infrastructure.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\Newtonsoft.Json.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.Helpers.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.Mvc.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.Optimization.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.Razor.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.Deployment.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.Razor.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\WebGrease.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\EntityFramework.xml
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\EntityFramework.SqlServer.xml
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.Helpers.xml
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.Mvc.xml
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.Optimization.xml
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.Razor.xml
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.xml
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.Deployment.xml
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.Razor.xml
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\Newtonsoft.Json.xml
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\Antlr3.Runtime.pdb
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\obj\Debug\demoTMDT.csprojAssemblyReference.cache
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\obj\Debug\demoTMDT.csproj.CoreCompileInputs.cache
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\obj\Debug\demoTMDT.csproj.CopyComplete
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\obj\Debug\demoTMDT.dll
+F:\Vỹ\DoANTMDT\demoTMDT\demoTMDT\obj\Debug\demoTMDT.pdb
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\demoTMDT.dll.config
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\demoTMDT.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\demoTMDT.pdb
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\csc.exe
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\csc.exe.config
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\csc.rsp
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\csi.exe
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\csi.exe.config
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\csi.rsp
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.AppContext.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Console.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.IO.Compression.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Claims.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.ValueTuple.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\vbc.exe
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\vbc.exe.config
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\vbc.rsp
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\VBCSCompiler.exe
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\Antlr3.Runtime.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\EntityFramework.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\Newtonsoft.Json.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.Helpers.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.Mvc.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.Optimization.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.Razor.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.Razor.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\WebGrease.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\EntityFramework.xml
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.Helpers.xml
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.Mvc.xml
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.Optimization.xml
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.Razor.xml
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.xml
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.Razor.xml
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\Newtonsoft.Json.xml
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\Antlr3.Runtime.pdb
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\obj\Debug\demoTMDT.csprojAssemblyReference.cache
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\obj\Debug\demoTMDT.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\obj\Debug\demoTMDT.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\obj\Debug\demoTMDT.dll
+C:\Users\ADMIN\Downloads\DoANTMDT\demoTMDT\demoTMDT\obj\Debug\demoTMDT.pdb
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\demoTMDT.dll.config
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\demoTMDT.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\demoTMDT.pdb
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\csc.exe
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\csc.exe.config
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\csc.rsp
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\csi.exe
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\csi.exe.config
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\csi.rsp
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.Managed.Core.targets
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.AppContext.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Collections.Immutable.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Console.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.IO.Compression.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.IO.FileSystem.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.IO.Pipes.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Reflection.Metadata.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.AccessControl.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Claims.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Principal.Windows.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.ValueTuple.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Xml.XmlDocument.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Xml.XPath.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\vbc.exe
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\vbc.exe.config
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\vbc.rsp
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\VBCSCompiler.exe
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\VBCSCompiler.exe.config
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\Antlr3.Runtime.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\EntityFramework.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\EntityFramework.SqlServer.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.Web.Infrastructure.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\Newtonsoft.Json.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.Helpers.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.Mvc.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.Optimization.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.Razor.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.Deployment.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.Razor.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\WebGrease.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\EntityFramework.xml
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\EntityFramework.SqlServer.xml
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.Helpers.xml
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.Mvc.xml
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.Optimization.xml
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.Razor.xml
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.xml
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.Deployment.xml
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.Razor.xml
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\Newtonsoft.Json.xml
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\Antlr3.Runtime.pdb
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\obj\Debug\demoTMDT.csprojAssemblyReference.cache
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\obj\Debug\demoTMDT.csproj.CoreCompileInputs.cache
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\obj\Debug\demoTMDT.csproj.CopyComplete
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\obj\Debug\demoTMDT.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\obj\Debug\demoTMDT.pdb
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.ReportViewer.Common.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.ReportViewer.DataVisualization.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\ReportPortal.Client.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\ReportPortal.Client.pdb
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\ReportPortal.Client.xml
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\SqlServerTypes\x64\msvcr120.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\SqlServerTypes\x86\msvcr120.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\CrystalDecisions.CrystalReports.Engine.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\CrystalDecisions.ReportSource.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\CrystalDecisions.Shared.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\log4net.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.ReportViewer.Design.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.ReportViewer.WinForms.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.SqlServer.Types.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\EnvDTE.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.Shell.Interop.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\stdole.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.OLE.Interop.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.MSXML.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\log4net.xml
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\cs\CrystalDecisions.ReportSource.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\da\CrystalDecisions.ReportSource.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\de\CrystalDecisions.ReportSource.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\en\CrystalDecisions.ReportSource.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\es\CrystalDecisions.ReportSource.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\fi\CrystalDecisions.ReportSource.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\fr\CrystalDecisions.ReportSource.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\hu\CrystalDecisions.ReportSource.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\it\CrystalDecisions.ReportSource.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\ja\CrystalDecisions.ReportSource.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\ko\CrystalDecisions.ReportSource.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\nb-NO\CrystalDecisions.ReportSource.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\nl\CrystalDecisions.ReportSource.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\pl\CrystalDecisions.ReportSource.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\pt\CrystalDecisions.ReportSource.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\ru\CrystalDecisions.ReportSource.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\sk\CrystalDecisions.ReportSource.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\sv\CrystalDecisions.ReportSource.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\th\CrystalDecisions.ReportSource.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\tr\CrystalDecisions.ReportSource.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\zh-CHS\CrystalDecisions.ReportSource.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\zh-CHT\CrystalDecisions.ReportSource.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\cs\CrystalDecisions.Shared.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\da\CrystalDecisions.Shared.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\de\CrystalDecisions.Shared.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\en\CrystalDecisions.Shared.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\es\CrystalDecisions.Shared.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\fi\CrystalDecisions.Shared.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\fr\CrystalDecisions.Shared.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\hu\CrystalDecisions.Shared.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\it\CrystalDecisions.Shared.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\ja\CrystalDecisions.Shared.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\ko\CrystalDecisions.Shared.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\nb-NO\CrystalDecisions.Shared.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\nl\CrystalDecisions.Shared.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\pl\CrystalDecisions.Shared.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\pt\CrystalDecisions.Shared.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\ru\CrystalDecisions.Shared.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\sk\CrystalDecisions.Shared.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\sv\CrystalDecisions.Shared.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\th\CrystalDecisions.Shared.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\tr\CrystalDecisions.Shared.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\zh-CHS\CrystalDecisions.Shared.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\zh-CHT\CrystalDecisions.Shared.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\de\Microsoft.ReportViewer.Common.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\es\Microsoft.ReportViewer.Common.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\it\Microsoft.ReportViewer.Common.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\de\Microsoft.ReportViewer.Design.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\es\Microsoft.ReportViewer.Design.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\it\Microsoft.ReportViewer.Design.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\demoTMDT.dll.config
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\demoTMDT.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\demoTMDT.pdb
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\csc.exe
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\csc.exe.config
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\csc.rsp
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\csi.exe
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\csi.exe.config
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\csi.rsp
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Console.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.IO.Compression.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Claims.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.ValueTuple.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\vbc.exe
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\vbc.rsp
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\Antlr3.Runtime.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\CrystalDecisions.ReportSource.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\CrystalDecisions.Shared.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\EntityFramework.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\log4net.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.SqlServer.Types.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\ReportPortal.Client.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.Helpers.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.Mvc.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.Optimization.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.Razor.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.Razor.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\WebGrease.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\EnvDTE.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\stdole.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.MSXML.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\EntityFramework.xml
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\log4net.xml
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\ReportPortal.Client.pdb
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\ReportPortal.Client.xml
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.Helpers.xml
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.Mvc.xml
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.Optimization.xml
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.Razor.xml
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.xml
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.Razor.xml
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\Antlr3.Runtime.pdb
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\cs\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\da\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\de\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\en\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\es\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\fi\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\fr\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\hu\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\it\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\ja\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\ko\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\nb-NO\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\nl\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\pl\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\pt\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\ru\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\sk\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\sv\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\th\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\tr\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\zh-CHS\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\zh-CHT\CrystalDecisions.ReportSource.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\cs\CrystalDecisions.Shared.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\da\CrystalDecisions.Shared.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\de\CrystalDecisions.Shared.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\en\CrystalDecisions.Shared.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\es\CrystalDecisions.Shared.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\fi\CrystalDecisions.Shared.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\fr\CrystalDecisions.Shared.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\hu\CrystalDecisions.Shared.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\it\CrystalDecisions.Shared.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\ja\CrystalDecisions.Shared.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\ko\CrystalDecisions.Shared.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\nb-NO\CrystalDecisions.Shared.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\nl\CrystalDecisions.Shared.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\pl\CrystalDecisions.Shared.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\pt\CrystalDecisions.Shared.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\ru\CrystalDecisions.Shared.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\sk\CrystalDecisions.Shared.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\sv\CrystalDecisions.Shared.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\th\CrystalDecisions.Shared.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\tr\CrystalDecisions.Shared.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\zh-CHS\CrystalDecisions.Shared.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\zh-CHT\CrystalDecisions.Shared.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\obj\Debug\demoTMDT.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\obj\Debug\demoTMDT.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\obj\Debug\demoTMDT.csproj.CopyComplete
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\obj\Debug\demoTMDT.dll
+C:\Users\ASUS\Desktop\txtTMDT\New folder\DoANTMDT\demoTMDT\demoTMDT\obj\Debug\demoTMDT.pdb
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\SqlServerTypes\x64\msvcr120.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\SqlServerTypes\x86\msvcr120.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\demoTMDT.dll.config
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\demoTMDT.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\demoTMDT.pdb
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\csc.exe
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\csc.exe.config
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\csc.rsp
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\csi.exe
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\csi.exe.config
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\csi.rsp
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.Managed.Core.targets
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.AppContext.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Collections.Immutable.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Console.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.IO.Compression.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.IO.FileSystem.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.IO.Pipes.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Reflection.Metadata.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.AccessControl.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Claims.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Principal.Windows.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.ValueTuple.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Xml.XmlDocument.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Xml.XPath.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\vbc.exe
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\vbc.exe.config
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\vbc.rsp
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\VBCSCompiler.exe
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\roslyn\VBCSCompiler.exe.config
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\Antlr3.Runtime.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\CrystalDecisions.CrystalReports.Engine.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\CrystalDecisions.ReportSource.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\CrystalDecisions.Shared.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\EntityFramework.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\EntityFramework.SqlServer.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\log4net.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.ReportViewer.Common.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.ReportViewer.DataVisualization.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.ReportViewer.Design.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.ReportViewer.WinForms.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.SqlServer.Types.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.Web.Infrastructure.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\Newtonsoft.Json.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\ReportPortal.Client.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.Helpers.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.Mvc.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.Optimization.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.Razor.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.Deployment.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.Razor.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\WebGrease.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\EnvDTE.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.Shell.Interop.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\stdole.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.OLE.Interop.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.MSXML.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\EntityFramework.xml
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\EntityFramework.SqlServer.xml
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\log4net.xml
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\ReportPortal.Client.pdb
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\ReportPortal.Client.xml
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.Helpers.xml
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.Mvc.xml
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.Optimization.xml
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.Razor.xml
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.xml
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.Deployment.xml
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.Razor.xml
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\Newtonsoft.Json.xml
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\Antlr3.Runtime.pdb
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\cs\CrystalDecisions.ReportSource.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\da\CrystalDecisions.ReportSource.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\de\CrystalDecisions.ReportSource.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\en\CrystalDecisions.ReportSource.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\es\CrystalDecisions.ReportSource.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\fi\CrystalDecisions.ReportSource.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\fr\CrystalDecisions.ReportSource.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\hu\CrystalDecisions.ReportSource.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\it\CrystalDecisions.ReportSource.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\ja\CrystalDecisions.ReportSource.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\ko\CrystalDecisions.ReportSource.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\nb-NO\CrystalDecisions.ReportSource.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\nl\CrystalDecisions.ReportSource.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\pl\CrystalDecisions.ReportSource.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\pt\CrystalDecisions.ReportSource.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\ru\CrystalDecisions.ReportSource.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\sk\CrystalDecisions.ReportSource.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\sv\CrystalDecisions.ReportSource.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\th\CrystalDecisions.ReportSource.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\tr\CrystalDecisions.ReportSource.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\zh-CHS\CrystalDecisions.ReportSource.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\zh-CHT\CrystalDecisions.ReportSource.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\cs\CrystalDecisions.Shared.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\da\CrystalDecisions.Shared.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\de\CrystalDecisions.Shared.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\en\CrystalDecisions.Shared.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\es\CrystalDecisions.Shared.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\fi\CrystalDecisions.Shared.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\fr\CrystalDecisions.Shared.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\hu\CrystalDecisions.Shared.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\it\CrystalDecisions.Shared.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\ja\CrystalDecisions.Shared.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\ko\CrystalDecisions.Shared.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\nb-NO\CrystalDecisions.Shared.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\nl\CrystalDecisions.Shared.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\pl\CrystalDecisions.Shared.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\pt\CrystalDecisions.Shared.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\ru\CrystalDecisions.Shared.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\sk\CrystalDecisions.Shared.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\sv\CrystalDecisions.Shared.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\th\CrystalDecisions.Shared.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\tr\CrystalDecisions.Shared.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\zh-CHS\CrystalDecisions.Shared.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\zh-CHT\CrystalDecisions.Shared.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\de\Microsoft.ReportViewer.Common.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\es\Microsoft.ReportViewer.Common.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\it\Microsoft.ReportViewer.Common.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\de\Microsoft.ReportViewer.Design.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\es\Microsoft.ReportViewer.Design.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\it\Microsoft.ReportViewer.Design.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\obj\Debug\demoTMDT.csprojAssemblyReference.cache
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\obj\Debug\demoTMDT.csproj.CoreCompileInputs.cache
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\obj\Debug\demoTMDT.csproj.CopyComplete
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\obj\Debug\demoTMDT.dll
+F:\ĐOAN-OOP\DoANTMDT\demoTMDT\demoTMDT\obj\Debug\demoTMDT.pdb
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\PagedList.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\PagedList.Mvc.dll
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\PagedList.xml
+F:\vidu\DoANTMDT\demoTMDT\demoTMDT\bin\PagedList.Mvc.xml
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\demoTMDT.dll.config
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\demoTMDT.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\demoTMDT.pdb
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\csc.exe
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\csc.exe.config
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\csc.rsp
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\csi.exe
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\csi.exe.config
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\csi.rsp
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\System.AppContext.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Console.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\System.IO.Compression.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Claims.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\System.ValueTuple.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\vbc.exe
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\vbc.exe.config
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\vbc.rsp
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\Antlr3.Runtime.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\CrystalDecisions.Shared.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\EntityFramework.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\EntityFramework.SqlServer.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\log4net.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\Microsoft.SqlServer.Types.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\Newtonsoft.Json.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\PagedList.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\PagedList.Mvc.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\ReportPortal.Client.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\System.Web.Helpers.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\System.Web.Mvc.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\System.Web.Optimization.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\System.Web.Razor.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\WebGrease.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\EnvDTE.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\stdole.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\EnvDTE80.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\VSLangProj.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\VSLangProj80.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\Microsoft.MSXML.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\VSLangProj2.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\EntityFramework.xml
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\EntityFramework.SqlServer.xml
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\log4net.xml
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\PagedList.xml
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\PagedList.Mvc.xml
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\ReportPortal.Client.pdb
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\ReportPortal.Client.xml
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\System.Web.Helpers.xml
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\System.Web.Mvc.xml
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\System.Web.Optimization.xml
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\System.Web.Razor.xml
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.xml
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\Newtonsoft.Json.xml
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\Antlr3.Runtime.pdb
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\cs\CrystalDecisions.ReportSource.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\da\CrystalDecisions.ReportSource.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\de\CrystalDecisions.ReportSource.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\en\CrystalDecisions.ReportSource.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\es\CrystalDecisions.ReportSource.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\fi\CrystalDecisions.ReportSource.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\fr\CrystalDecisions.ReportSource.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\hu\CrystalDecisions.ReportSource.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\it\CrystalDecisions.ReportSource.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\ja\CrystalDecisions.ReportSource.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\ko\CrystalDecisions.ReportSource.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\nb-NO\CrystalDecisions.ReportSource.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\nl\CrystalDecisions.ReportSource.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\pl\CrystalDecisions.ReportSource.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\pt\CrystalDecisions.ReportSource.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\ru\CrystalDecisions.ReportSource.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\sk\CrystalDecisions.ReportSource.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\sv\CrystalDecisions.ReportSource.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\th\CrystalDecisions.ReportSource.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\tr\CrystalDecisions.ReportSource.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\zh-CHS\CrystalDecisions.ReportSource.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\zh-CHT\CrystalDecisions.ReportSource.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\cs\CrystalDecisions.Shared.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\da\CrystalDecisions.Shared.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\de\CrystalDecisions.Shared.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\en\CrystalDecisions.Shared.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\es\CrystalDecisions.Shared.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\fi\CrystalDecisions.Shared.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\fr\CrystalDecisions.Shared.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\hu\CrystalDecisions.Shared.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\it\CrystalDecisions.Shared.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\ja\CrystalDecisions.Shared.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\ko\CrystalDecisions.Shared.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\nb-NO\CrystalDecisions.Shared.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\nl\CrystalDecisions.Shared.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\pl\CrystalDecisions.Shared.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\pt\CrystalDecisions.Shared.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\ru\CrystalDecisions.Shared.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\sk\CrystalDecisions.Shared.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\sv\CrystalDecisions.Shared.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\th\CrystalDecisions.Shared.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\tr\CrystalDecisions.Shared.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\zh-CHS\CrystalDecisions.Shared.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\zh-CHT\CrystalDecisions.Shared.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\obj\Debug\demoTMDT.csprojAssemblyReference.cache
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\obj\Debug\demoTMDT.csproj.CoreCompileInputs.cache
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\obj\Debug\demoTMDT.csproj.CopyComplete
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\obj\Debug\demoTMDT.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\DoanTMDT\demoTMDT\demoTMDT\obj\Debug\demoTMDT.pdb
+F:\DOAN-TMDT\demoTMDT\demoTMDT\obj\Debug\demoTMDT.csproj.CoreCompileInputs.cache
+F:\DOAN-TMDT\demoTMDT\demoTMDT\obj\Debug\demoTMDT.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\obj\Debug\demoTMDT.pdb
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\SqlServerTypes\x64\msvcr120.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\SqlServerTypes\x86\msvcr120.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\demoTMDT.dll.config
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\demoTMDT.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\demoTMDT.pdb
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\csc.exe
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\csc.exe.config
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\csc.rsp
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\csi.exe
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\csi.exe.config
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\csi.rsp
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.Managed.Core.targets
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\System.AppContext.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\System.Collections.Immutable.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\System.Console.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\System.IO.Compression.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\System.IO.FileSystem.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\System.IO.Pipes.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\System.Reflection.Metadata.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.AccessControl.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Claims.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Principal.Windows.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\System.ValueTuple.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\System.Xml.XmlDocument.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\System.Xml.XPath.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\vbc.exe
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\vbc.exe.config
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\vbc.rsp
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\VBCSCompiler.exe
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\roslyn\VBCSCompiler.exe.config
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\Antlr3.Runtime.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\CrystalDecisions.CrystalReports.Engine.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\CrystalDecisions.ReportSource.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\CrystalDecisions.Shared.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\EntityFramework.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\EntityFramework.SqlServer.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\log4net.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\Microsoft.ReportViewer.Common.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\Microsoft.ReportViewer.DataVisualization.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\Microsoft.ReportViewer.Design.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\Microsoft.ReportViewer.WinForms.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\Microsoft.SqlServer.Types.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\Microsoft.Web.Infrastructure.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\Newtonsoft.Json.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\PagedList.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\PagedList.Mvc.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\ReportPortal.Client.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\System.Web.Helpers.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\System.Web.Mvc.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\System.Web.Optimization.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\System.Web.Razor.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.Deployment.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.Razor.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\WebGrease.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\EnvDTE.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.Shell.Interop.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\stdole.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.OLE.Interop.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\Microsoft.MSXML.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\EntityFramework.xml
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\EntityFramework.SqlServer.xml
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\log4net.xml
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\PagedList.xml
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\PagedList.Mvc.xml
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\ReportPortal.Client.pdb
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\ReportPortal.Client.xml
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\System.Web.Helpers.xml
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\System.Web.Mvc.xml
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\System.Web.Optimization.xml
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\System.Web.Razor.xml
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.xml
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.Deployment.xml
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.Razor.xml
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\Newtonsoft.Json.xml
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\Antlr3.Runtime.pdb
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\cs\CrystalDecisions.ReportSource.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\da\CrystalDecisions.ReportSource.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\de\CrystalDecisions.ReportSource.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\en\CrystalDecisions.ReportSource.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\es\CrystalDecisions.ReportSource.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\fi\CrystalDecisions.ReportSource.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\fr\CrystalDecisions.ReportSource.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\hu\CrystalDecisions.ReportSource.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\it\CrystalDecisions.ReportSource.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\ja\CrystalDecisions.ReportSource.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\ko\CrystalDecisions.ReportSource.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\nb-NO\CrystalDecisions.ReportSource.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\nl\CrystalDecisions.ReportSource.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\pl\CrystalDecisions.ReportSource.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\pt\CrystalDecisions.ReportSource.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\ru\CrystalDecisions.ReportSource.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\sk\CrystalDecisions.ReportSource.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\sv\CrystalDecisions.ReportSource.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\th\CrystalDecisions.ReportSource.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\tr\CrystalDecisions.ReportSource.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\zh-CHS\CrystalDecisions.ReportSource.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\zh-CHT\CrystalDecisions.ReportSource.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\cs\CrystalDecisions.Shared.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\da\CrystalDecisions.Shared.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\de\CrystalDecisions.Shared.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\en\CrystalDecisions.Shared.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\es\CrystalDecisions.Shared.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\fi\CrystalDecisions.Shared.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\fr\CrystalDecisions.Shared.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\hu\CrystalDecisions.Shared.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\it\CrystalDecisions.Shared.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\ja\CrystalDecisions.Shared.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\ko\CrystalDecisions.Shared.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\nb-NO\CrystalDecisions.Shared.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\nl\CrystalDecisions.Shared.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\pl\CrystalDecisions.Shared.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\pt\CrystalDecisions.Shared.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\ru\CrystalDecisions.Shared.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\sk\CrystalDecisions.Shared.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\sv\CrystalDecisions.Shared.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\th\CrystalDecisions.Shared.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\tr\CrystalDecisions.Shared.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\zh-CHS\CrystalDecisions.Shared.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\zh-CHT\CrystalDecisions.Shared.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\de\Microsoft.ReportViewer.Common.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\es\Microsoft.ReportViewer.Common.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\it\Microsoft.ReportViewer.Common.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\de\Microsoft.ReportViewer.Design.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\es\Microsoft.ReportViewer.Design.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\it\Microsoft.ReportViewer.Design.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\DOAN-TMDT\demoTMDT\demoTMDT\obj\Debug\demoTMDT.csproj.CopyComplete
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\demoTMDT.dll.config
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\demoTMDT.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\demoTMDT.pdb
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\csc.exe
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\csc.exe.config
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\csc.rsp
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\csi.exe
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\csi.exe.config
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\csi.rsp
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\System.AppContext.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\System.Console.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\System.IO.Compression.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Claims.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\System.ValueTuple.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\vbc.exe
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\vbc.exe.config
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\vbc.rsp
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\Antlr3.Runtime.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\CrystalDecisions.Shared.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\EntityFramework.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\EntityFramework.SqlServer.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\log4net.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\Microsoft.ReportViewer.Design.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\Microsoft.SqlServer.Types.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\Newtonsoft.Json.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\PagedList.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\PagedList.Mvc.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\ReportPortal.Client.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\System.Web.Helpers.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\System.Web.Mvc.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\System.Web.Optimization.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\System.Web.Razor.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\WebGrease.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\EnvDTE.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\stdole.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\EnvDTE80.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\VSLangProj.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\VSLangProj80.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\Microsoft.MSXML.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\VSLangProj2.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\EntityFramework.xml
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\EntityFramework.SqlServer.xml
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\log4net.xml
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\PagedList.xml
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\PagedList.Mvc.xml
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\ReportPortal.Client.pdb
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\ReportPortal.Client.xml
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\System.Web.Helpers.xml
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\System.Web.Mvc.xml
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\System.Web.Optimization.xml
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\System.Web.Razor.xml
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.xml
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\Newtonsoft.Json.xml
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\Antlr3.Runtime.pdb
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\cs\CrystalDecisions.ReportSource.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\da\CrystalDecisions.ReportSource.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\de\CrystalDecisions.ReportSource.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\en\CrystalDecisions.ReportSource.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\es\CrystalDecisions.ReportSource.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\fi\CrystalDecisions.ReportSource.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\fr\CrystalDecisions.ReportSource.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\hu\CrystalDecisions.ReportSource.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\it\CrystalDecisions.ReportSource.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\ja\CrystalDecisions.ReportSource.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\ko\CrystalDecisions.ReportSource.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\nb-NO\CrystalDecisions.ReportSource.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\nl\CrystalDecisions.ReportSource.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\pl\CrystalDecisions.ReportSource.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\pt\CrystalDecisions.ReportSource.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\ru\CrystalDecisions.ReportSource.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\sk\CrystalDecisions.ReportSource.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\sv\CrystalDecisions.ReportSource.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\th\CrystalDecisions.ReportSource.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\tr\CrystalDecisions.ReportSource.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\zh-CHS\CrystalDecisions.ReportSource.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\zh-CHT\CrystalDecisions.ReportSource.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\cs\CrystalDecisions.Shared.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\da\CrystalDecisions.Shared.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\de\CrystalDecisions.Shared.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\en\CrystalDecisions.Shared.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\es\CrystalDecisions.Shared.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\fi\CrystalDecisions.Shared.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\fr\CrystalDecisions.Shared.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\hu\CrystalDecisions.Shared.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\it\CrystalDecisions.Shared.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\ja\CrystalDecisions.Shared.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\ko\CrystalDecisions.Shared.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\nb-NO\CrystalDecisions.Shared.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\nl\CrystalDecisions.Shared.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\pl\CrystalDecisions.Shared.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\pt\CrystalDecisions.Shared.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\ru\CrystalDecisions.Shared.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\sk\CrystalDecisions.Shared.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\sv\CrystalDecisions.Shared.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\th\CrystalDecisions.Shared.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\tr\CrystalDecisions.Shared.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\zh-CHS\CrystalDecisions.Shared.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\zh-CHT\CrystalDecisions.Shared.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\bin\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\obj\Debug\demoTMDT.csproj.CoreCompileInputs.cache
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\obj\Debug\demoTMDT.csproj.CopyComplete
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\obj\Debug\demoTMDT.dll
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\obj\Debug\demoTMDT.pdb
+C:\Users\Tu\OneDrive\Desktop\TMDT\demoTMDT\demoTMDT\obj\Debug\demoTMDT.csprojAssemblyReference.cache

@@ -1,0 +1,67 @@
+﻿@model IEnumerable<demoTMDT.Models.ViewModel>
+
+@{
+    ViewBag.Title = "BCDoanhThu";
+    Layout = "~/Views/Shared/NVBanHang.cshtml";
+}
+
+<h2 style="text-align:center">Báo Cáo Doanh Thu</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            Tên Điện Thoại
+        </th>
+        <th>
+            Giá Nhập
+        </th>
+        <th>
+            Giá Bán
+        </th>
+        <th>
+            Hình ảnh
+        </th>
+        <th style="text-align:center">
+            Số lượng bán
+        </th>
+        <th>
+            Tiền lời
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        decimal sum, loi = 0;
+
+        sum = item.gianhap * item.TongSoLuong.Value;
+        loi = item.TongTien.Value - sum;
+
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenDT)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.gianhap)VNĐ
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.giaban)VNĐ
+            </td>
+            <td>
+                <img src="@Url.Content(item.Hinhanh)" height="100" width="100" />
+            </td>
+            <td style="text-align:center">
+                @Html.DisplayFor(modelItem => item.TongSoLuong)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.tienloi)VNĐ
+            </td>
+        </tr>
+    }
+
+    <tr>
+        <td colspan="7" id="tong" style="text-align:right;font-size:24px"> Tổng Tiền Lời: @Html.Action("DoanhThu", "ThongKe")VNĐ</td>
+    </tr>
+
+</table>

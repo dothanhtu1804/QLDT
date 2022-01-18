@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="ad7e65b065c04b99905742612f83ec2a" Name="Diagram1">
+        <EntityTypeShape EntityType="DiDong123Model.BaoHanh" Width="1.5" PointX="5.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DiDong123Model.ChiTiet" Width="1.5" PointX="7.5" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="DiDong123Model.Comment" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DiDong123Model.DienThoai" Width="1.5" PointX="5.25" PointY="7.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DiDong123Model.Hang" Width="1.5" PointX="0.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DiDong123Model.HoaDon" Width="1.5" PointX="10.5" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="DiDong123Model.KhachHang" Width="1.5" PointX="9.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DiDong123Model.KhuyenMai" Width="1.5" PointX="10.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DiDong123Model.LichNhap" Width="1.5" PointX="3" PointY="10.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DiDong123Model.NhanVien" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="DiDong123Model.PhieuMua" Width="1.5" PointX="8.25" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="DiDong123Model.Role" Width="1.5" PointX="0.75" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DiDong123Model.sysdiagram" Width="1.5" PointX="11.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DiDong123Model.TinTuc" Width="1.5" PointX="12.75" PointY="3.75" IsExpanded="true" />
+        <AssociationConnector Association="DiDong123Model.FK_ChiTiet_DienThoai" ManuallyRouted="false" />
+        <AssociationConnector Association="DiDong123Model.FK_DienThoai_Hang" ManuallyRouted="false" />
+        <AssociationConnector Association="DiDong123Model.FK_DienThoai_LichNhap" ManuallyRouted="false" />
+        <AssociationConnector Association="DiDong123Model.FK_HoaDon_DienThoai" ManuallyRouted="false" />
+        <AssociationConnector Association="DiDong123Model.FK_LichNhap_Hang" ManuallyRouted="false" />
+        <AssociationConnector Association="DiDong123Model.FK_HoaDon_PhieuMua" ManuallyRouted="false" />
+        <AssociationConnector Association="DiDong123Model.FK_NhanVien_Role" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

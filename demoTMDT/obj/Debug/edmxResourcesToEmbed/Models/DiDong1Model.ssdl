@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DiDongPortalModel1.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="DienThoai">
+    <Key>
+      <PropertyRef Name="IdDT" />
+    </Key>
+    <Property Name="IdDT" Type="int" Nullable="false" />
+    <Property Name="TenDT" Type="nvarchar(max)" />
+    <Property Name="Mota" Type="nvarchar(max)" />
+    <Property Name="SoLuong" Type="int" />
+    <Property Name="Gia" Type="int" />
+    <Property Name="hinhanh" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="HoaDon">
+    <Key>
+      <PropertyRef Name="IdHoaDon" />
+    </Key>
+    <Property Name="IdHoaDon" Type="int" Nullable="false" />
+    <Property Name="IdPM" Type="int" />
+    <Property Name="IdKH" Type="int" />
+    <Property Name="TenKH" Type="nvarchar" MaxLength="50" />
+    <Property Name="IdDT" Type="int" />
+    <Property Name="TenDT" Type="nvarchar" MaxLength="50" />
+    <Property Name="SoLuong" Type="int" />
+    <Property Name="Gia" Type="int" />
+  </EntityType>
+  <EntityType Name="KhachHang">
+    <Key>
+      <PropertyRef Name="IdKH" />
+    </Key>
+    <Property Name="IdKH" Type="int" Nullable="false" />
+    <Property Name="tenKH" Type="nvarchar" MaxLength="50" />
+    <Property Name="diachi" Type="nvarchar" MaxLength="50" />
+    <Property Name="sdt" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="NhanVien">
+    <Key>
+      <PropertyRef Name="IdNV" />
+    </Key>
+    <Property Name="IdNV" Type="int" Nullable="false" />
+    <Property Name="TenNV" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="NgaySinh" Type="datetime" />
+    <Property Name="SĐT" Type="nvarchar" MaxLength="50" />
+    <Property Name="TaiKhoan" Type="nvarchar" MaxLength="50" />
+    <Property Name="MatKhau" Type="nvarchar" MaxLength="50" />
+    <Property Name="VaiTro" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="PhieuMua">
+    <Key>
+      <PropertyRef Name="IdPM" />
+    </Key>
+    <Property Name="IdPM" Type="int" Nullable="false" />
+    <Property Name="IdKH" Type="int" />
+    <Property Name="TenKH" Type="nvarchar" MaxLength="50" />
+    <Property Name="NgayMua" Type="datetime" />
+    <Property Name="KhuyenMai" Type="nvarchar" MaxLength="50" />
+    <Property Name="DiaChi" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Table">
+    <Key>
+      <PropertyRef Name="IdKH" />
+    </Key>
+    <Property Name="IdKH" Type="int" Nullable="false" />
+    <Property Name="tenKH" Type="nvarchar" MaxLength="50" />
+    <Property Name="diachi" Type="nvarchar" MaxLength="50" />
+    <Property Name="sdt" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_HoaDon_DienThoai">
+    <End Role="DienThoai" Type="Self.DienThoai" Multiplicity="0..1" />
+    <End Role="HoaDon" Type="Self.HoaDon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DienThoai">
+        <PropertyRef Name="IdDT" />
+      </Principal>
+      <Dependent Role="HoaDon">
+        <PropertyRef Name="IdDT" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HoaDon_KhachHang">
+    <End Role="KhachHang" Type="Self.KhachHang" Multiplicity="0..1" />
+    <End Role="HoaDon" Type="Self.HoaDon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="KhachHang">
+        <PropertyRef Name="IdKH" />
+      </Principal>
+      <Dependent Role="HoaDon">
+        <PropertyRef Name="IdKH" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HoaDon_PhieuMua">
+    <End Role="PhieuMua" Type="Self.PhieuMua" Multiplicity="0..1" />
+    <End Role="HoaDon" Type="Self.HoaDon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PhieuMua">
+        <PropertyRef Name="IdPM" />
+      </Principal>
+      <Dependent Role="HoaDon">
+        <PropertyRef Name="IdPM" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PhieuMua_KhachHang">
+    <End Role="KhachHang" Type="Self.KhachHang" Multiplicity="0..1" />
+    <End Role="PhieuMua" Type="Self.PhieuMua" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="KhachHang">
+        <PropertyRef Name="IdKH" />
+      </Principal>
+      <Dependent Role="PhieuMua">
+        <PropertyRef Name="IdKH" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DiDongPortalModel1StoreContainer">
+    <EntitySet Name="DienThoai" EntityType="Self.DienThoai" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="HoaDon" EntityType="Self.HoaDon" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="KhachHang" EntityType="Self.KhachHang" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="NhanVien" EntityType="Self.NhanVien" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PhieuMua" EntityType="Self.PhieuMua" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Table" EntityType="Self.Table" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_HoaDon_DienThoai" Association="Self.FK_HoaDon_DienThoai">
+      <End Role="DienThoai" EntitySet="DienThoai" />
+      <End Role="HoaDon" EntitySet="HoaDon" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HoaDon_KhachHang" Association="Self.FK_HoaDon_KhachHang">
+      <End Role="KhachHang" EntitySet="KhachHang" />
+      <End Role="HoaDon" EntitySet="HoaDon" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HoaDon_PhieuMua" Association="Self.FK_HoaDon_PhieuMua">
+      <End Role="PhieuMua" EntitySet="PhieuMua" />
+      <End Role="HoaDon" EntitySet="HoaDon" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PhieuMua_KhachHang" Association="Self.FK_PhieuMua_KhachHang">
+      <End Role="KhachHang" EntitySet="KhachHang" />
+      <End Role="PhieuMua" EntitySet="PhieuMua" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

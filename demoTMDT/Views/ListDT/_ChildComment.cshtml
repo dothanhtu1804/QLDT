@@ -1,0 +1,24 @@
+﻿@model IEnumerable<demoTMDT.Models.Comment>
+
+@foreach (var item in Model)
+{
+    <ul class="children">
+        <li>
+            <div class="main-cmt">
+                <img src="https://static.yeah1.com/uploads/editors/27/2020/03/21/JaZBMzV14fzRI4vBWG8jymplSUGSGgimkqtJakOV.jpeg"
+                     alt="">
+                <div class="body-cmt">
+                    <div class="commentator d-flex">
+                        <p><p>@item.TenKH</p>
+                        <span>-</span>
+                        <p>@item.NgayCMT</p>
+                    </div>
+                    <div class="cmt">
+                        <p>@item.Comment1</p>
+                    </div>
+                </div>
+            </div>
+        </li>
+    </ul>
+
+}

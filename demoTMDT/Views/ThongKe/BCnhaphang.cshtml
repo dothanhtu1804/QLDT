@@ -1,0 +1,88 @@
+﻿@model IEnumerable<demoTMDT.Models.LichNhap>
+
+@{
+    ViewBag.Title = "BCnhaphang";
+    Layout = "~/Views/Shared/NVBanHang.cshtml";
+    var lich = ViewBag.infocart;
+
+}
+
+
+
+<h2 style="text-align:center">BÁO CÁO HÀNG NHẬP</h2>
+
+
+<table class="table" style="text-align:center" id="nhaphang" >
+    <tr>
+        <th>
+            STT
+        </th>
+        <th>
+            Tên Hãng
+        </th>
+        <th>
+            Tên Sản Phẩm
+        </th>
+        <th>
+            Ngày Nhập
+        </th>
+        <th>
+            Số Lượng
+        </th>
+        <th>
+            Đơn giá
+        </th>
+        <th>
+            Thành Tiền
+        </th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdLichNhap)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.idHang)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenSanPham)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NgayNhap)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SoLuong)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DonGia)VNĐ
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ThanhTien)VNĐ
+            </td>
+
+        </tr>
+
+    }
+
+        <tr>                                    
+                            
+            <td colspan="7" id="tong" style="text-align:right;font-size:24px"> Tổng Tiền Nhập: @Html.Action("solieu", "ThongKe")VNĐ</td>
+        </tr>
+
+
+</table>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('#nhaphang').DataTable({
+            dom = 'Bfrtip',
+            buttons: [
+                'copy', 'csv', 'excel', 'pdf', 'print'
+            ]
+        });
+    });
+</script>

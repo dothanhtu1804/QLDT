@@ -1,0 +1,29 @@
+﻿@model demoTMDT.Models.TinTuc
+
+@{
+    ViewBag.Title = "CT_TT";
+    Layout = "~/Views/Shared/DSTT.cshtml";
+}
+
+<style>
+    .ctsp h1{
+        text-align: center;
+    }
+
+    .ctsp img{
+        height: 300px;
+        width: 80%;
+        margin: 0px auto;
+        display: block;
+    }
+</style>
+
+
+
+
+
+<div class="ctsp">
+    <h1>@Html.DisplayFor(model => model.TieuDe)</h1>
+    <img src="@Url.Content(Model.HinhAnh)"  />
+    <p>@Html.DisplayFor(model => model.NoiDung)</p>
+</div>

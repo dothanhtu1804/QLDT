@@ -1,0 +1,142 @@
+﻿@using demoTMDT.Models;
+@using PagedList.Mvc;
+@model PagedList.PagedList<HoaDon>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/NVBanHang.cshtml";
+}
+
+
+<h2>Quản Lý Hóa Đơn</h2>
+
+<style>
+    .max-with {
+        max-width: 200px;
+    }
+
+    .button-create a {
+        color: #fff;
+        text-decoration: none;
+    }
+
+    .button-cn a {
+        color: black;
+        text-decoration: none;
+    }
+
+    .button-cn i {
+        color: #fff;
+    }
+
+    th, td {
+        max-width: 200px;
+    }
+
+    ul.list-trang {
+        list-style: none;
+    }
+
+        ul.list-trang p {
+            text-align: center;
+        }
+
+        ul.list-trang li {
+            padding: 0px 15px;
+            display: flex;
+            justify-content: center;
+        }
+
+            ul.list-trang li a {
+                color: #326690;
+                text-align: center;
+                text-decoration: none;
+            }
+</style>
+
+<div class="col-md-10 ">
+
+    <div class="p-4">
+        <section class=" ">
+            <div class=" bg-white card  p-3" style="min-width:1100px;">
+                <div class="row justify-content-start">
+                    <div class="col-md-2">
+                        <div>
+                           
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12 p-3">
+                        <p>Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) / @Model.PageCount</p>
+                        <table id="myTable1"
+                               class="table table-striped table-bordered dt-responsive nowrap">
+                            <thead>
+                                <tr>
+                                    <th>STT</th>
+                                    <th>Tên KH</th>
+                                    <th>Số Điện Thoại</th>
+                                    <th>Địa Chỉ</th>
+                                    <th>Tên Điện Thoại</th>
+                                    <th>Giá</th>
+                                    <th>Chức năng</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model)
+                                {
+                                    <tr>
+                                        <td>
+                                            <a class=" font-weight-bold card-link " href=""></a>
+                                            @Html.DisplayFor(modelItem => item.IdHoaDon)
+                                        </td>
+                                        <td>@Html.DisplayFor(modelItem => item.TenKH)</td>
+                                        <td>
+                                            <a class=" font-weight-bold card-link " href=""></a>
+                                            @Html.DisplayFor(modelItem => item.SĐT)
+                                        </td>
+                                        <td>@Html.DisplayFor(modelItem => item.DiaChi)</td>
+
+
+                                        <td>@Html.DisplayFor(modelItem => item.TenDT)</td>
+                                        <td>@Html.DisplayFor(modelItem => item.Gia)</td>
+                                        <td style="min-width:230px;">
+                                            <div class="d-flex" style="justify-content:flex-start;">
+                                                <button class="button-cn btn btn-sm btn-primary text-danger border"
+                                                        href="">
+                                                    @Html.ActionLink("Edit", "Edit", new { id = item.IdHoaDon })
+                                                    <i class="fas fa-edit"></i>
+                                                </button>
+                                                <button class="button-cn btn-sm btn-warning text-warning border"
+                                                        href="">
+                                                    @Html.ActionLink("Details", "Details", new { id = item.IdHoaDon })
+                                                    <i class="fas fa-info"></i>
+                                                </button>
+                                                <button class="button-cn btn-sm btn-danger text-danger border"
+                                                        href="">
+                                                    @Html.ActionLink("Delete", "Delete", new { id = item.IdHoaDon })
+                                                    <i class="fas fa-trash-alt"></i>
+                                                </button>
+                                            </div>
+                                        </td>
+
+                                    </tr>
+
+                                }
+                            </tbody>
+
+                        </table>
+                    </div>
+                </div>
+                
+                <ul class="list-trang">
+                    
+                    <li>
+                        <a> @Html.PagedListPager(Model, page => Url.Action("Index", new { page = page }))</a>
+                    </li>
+                </ul>
+            </div>
+        </section>
+    </div>
+</div>
+

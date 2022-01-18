@@ -1,0 +1,276 @@
+﻿@model IEnumerable<demoTMDT.Models.HoaDon>
+
+@{
+    ViewBag.Title = "TimKiem";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<style>
+    .banner {
+        background-color: red;
+        text-align: center;
+        padding: 10px;
+        margin-top: 20px;
+        margin-bottom: 0px;
+        color: white;
+    }
+
+    #formsearch {
+        margin: 20px 0px;
+    }
+
+        #formsearch input {
+            background-color: #e2dede;
+            margin-left: 41px;
+            width: 80%;
+            border: none;
+            outline: none;
+            border-radius: 2px;
+            padding: 5px 0px 5px 10px;
+        }
+
+        #formsearch button {
+            position: absolute;
+            top: 25px;
+            left: 235px;
+            background: none;
+            border: none;
+        }
+
+    .cart {
+        margin: 0px 270px;
+        min-width: 600px;
+        padding: 15px 10px;
+    }
+
+    .top-cart {
+        margin: 0px auto;
+        max-width: 600px;
+        justify-content: space-between;
+    }
+
+        .top-cart a {
+            color: #e10c00;
+        }
+
+            .top-cart a:hover {
+                color: #e10c00;
+            }
+
+    .billing-information h5 {
+        font-weight: bold;
+    }
+
+    .billing-information ul li {
+        list-style: none;
+    }
+
+        .billing-information ul li h3 {
+            font-size: 16px;
+            font-weight: bold;
+            margin-right: 5px;
+        }
+
+        .billing-information ul li input {
+            display: block;
+            min-width: 210px;
+            height: 25px;
+            padding: 6px 12px;
+            font-size: 13px;
+            color: #555;
+            background-color: #fff;
+            background-image: none;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+    .order-review {
+        padding: 15px;
+    }
+
+        .order-review table {
+            border: 1px solid rgba(0, 0, 0, 0.1);
+            margin: 0 -1px 24px 0;
+            text-align: left;
+            width: 100%;
+            border-collapse: separate;
+            border-radius: 5px;
+            border-spacing: 0px;
+        }
+
+            .order-review table thead {
+                background-color: #f1f1f1;
+            }
+
+                .order-review table thead tr th {
+                    padding: 5px;
+                }
+
+
+            .order-review table tbody tr td {
+                border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+            }
+
+            .order-review table tbody tr td {
+                padding: 5px;
+            }
+
+                .order-review table tbody tr td i {
+                    color: red;
+                }
+
+    .fee {
+        color: #e10c00;
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+    .payments {
+        padding: 15px;
+    }
+
+        .payments ul {
+            border-bottom: 1px solid #d3ced2;
+        }
+
+            .payments ul li {
+                list-style: none;
+                padding: 0px 0px 10px 10px;
+            }
+
+                .payments ul li p {
+                    font-weight: bold;
+                    margin-left: 5px;
+                }
+
+
+        .payments button {
+            display: block;
+            position: absolute;
+            right: 500px;
+            bottom: 135px;
+            margin: 0px 0px 15px 15px;
+            padding: 10px 15px;
+            color: white;
+            border: none;
+            background-color: #c21d32;
+            border-radius: 5px;
+        }
+
+            .payments button:hover {
+                background-color: #af2033;
+            }
+
+
+</style>
+
+
+
+<div class="container2" style="background-color: white; margin-top:20px;">
+    <h2 class="banner">Hóa đơn</h2>
+    <div class="row" style="width: 100%; margin:0px 0px 0px -15px;">
+        <div class="col-md-3">
+            @using (Html.BeginForm("TimKiem", "HoaDon"))
+            {
+                <div id="formsearch">
+                    <form action="">
+                        <input type="text" placeholder="Bạn cần tìm gì?" name="_name">
+                        <button><i class="fa fa-search"></i></button>
+                    </form>
+                </div>
+            }
+        </div>
+        <div class="col-md-9">
+            <div class="cart">
+                <div class="body-cart" style="padding:15px; background-color: white;">
+                    <div class="billing-information">
+                        <h5>Thông tin Đơn Hàng</h5>
+
+                        @foreach (var item in Model)
+                        {
+                            <ul>
+                                <li class="d-flex" style="justify-content:space-between;">
+                                    <div class="d-flex">
+                                        <h3>Tên:</h3>
+                                        <span>@Html.DisplayFor(Modelitem => item.TenKH)</span>
+                                    </div>
+                                    <div class="d-flex">
+                                        <h3>Ngày Mua:</h3>
+                                        <span>@Html.DisplayFor(Modelitem => item.PhieuMua.NgayMua)</span>
+                                    </div>
+                                </li>
+
+                                <li>
+                                    <div class="d-flex">
+                                        <h3>Địa chỉ:</h3>
+                                        <span>@Html.DisplayFor(Modelitem => item.PhieuMua.DiaChi)</span>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="d-flex">
+                                        <h3>Email:</h3>
+                                        <span>@Html.DisplayFor(Modelitem => item.PhieuMua.Email)</span>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="d-flex">
+                                        <h3>Số Điện Thoại:</h3>
+                                        <span>@Html.DisplayFor(Modelitem => item.PhieuMua.SĐT)</span>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="d-flex">
+                                        <h3>Mã Khuyến Mãi:</h3>
+                                        <span>@Html.DisplayFor(Modelitem => item.PhieuMua.KhuyenMai)</span>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="d-flex">
+                                        <h3>Hình thức thanh toán:</h3>
+                                        <span>@Html.DisplayFor(ModelItem => item.PhieuMua.HThuc)</span>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="d-flex">
+                                        <h3>Tình Trạng đơn:</h3>
+                                        <span>@Html.DisplayFor(ModelItem => item.PhieuMua.TinhTrang)</span>
+                                    </div>
+                                </li>
+
+                            </ul>
+
+
+                            <div class="order-review">
+                                <table>
+                                    <thead>
+                                        <tr>
+                                            <th>Sản phẩm</th>
+                                            <th>Số Lượng</th>
+                                            <th>Tổng</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>@Html.DisplayFor(Modelitem => item.TenDT)</td>
+                                            <td>@Html.DisplayFor(Modelitem => item.SoLuong)</td>
+                                            <td style="color: #e10c00;">@Html.DisplayFor(Modelitem => item.Gia)</td>
+                                        </tr>
+
+                                    </tbody>
+                                    <tfoot>
+                                        <tr></tr>
+                                    </tfoot>
+                                </table>
+                            </div>
+                        }
+                        <div class="payments">
+                            <a href="@Url.Action("Index","ListDT")" class="btn btn-primary">Trở Về</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end list product -->

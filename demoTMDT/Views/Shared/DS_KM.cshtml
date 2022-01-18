@@ -1,0 +1,138 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .row {
+        margin-top: 20px;
+    }
+
+    .news {
+        background-color: white;
+        padding: 10px;
+        box-shadow: 1px 1px 1px gray;
+    }
+
+        .news h2 {
+            color: #c91d32;
+            padding: 5px;
+            border-bottom: 2px solid #c91d32;
+        }
+
+    .content {
+        height: 150px;
+    }
+
+    .img-post {
+        width: 40%;
+        padding: 10px;
+    }
+
+        .img-post a img {
+            width: 100%;
+            height: 100%;
+        }
+
+    .post {
+        width: 60%;
+        padding: 10px;
+    }
+
+        .post a {
+            color: black;
+        }
+
+            .post a:hover {
+                color: #e12600;
+            }
+
+    .hot-promotion {
+        background-color: white;
+        padding: 10px;
+        box-shadow: 1px 1px 1px gray;
+    }
+
+        .hot-promotion h2 {
+            color: #c91d32;
+            padding: 5px;
+            border-bottom: 2px solid #c91d32;
+        }
+
+    .content {
+        height: 140px;
+    }
+
+    .img-product {
+        width: 40%;
+        padding: 10px;
+    }
+
+        .img-product a img {
+            width: 100%;
+            height: 100%;
+        }
+
+    .info {
+        width: 60%;
+        padding: 10px;
+    }
+
+        .info a {
+            color: black;
+        }
+
+            .info a:hover {
+                color: #e12600;
+            }
+
+    .customer {
+        margin: 20px 0px;
+        background-color: white;
+    }
+
+        .customer h2 {
+            font-weight: bold;
+            padding: 10px !important;
+            margin: 0px;
+            text-align: center;
+            background-color: red;
+            color: white;
+        }
+
+    .img-customer {
+        width: 100%;
+        height: 200px;
+        padding: 20px;
+    }
+</style>
+
+<div id="wrapper">
+
+    <div class="hot-promotion">
+        <h2 class="reset-size">KHUYẾN MÃI</h2>
+        <div class="row reset-size">
+
+            @RenderBody()
+
+        </div>
+        <div class="customer">
+            <h2>KHÁCH HÀNG TỚI CLICKBUY</h2>
+            <div class="row reset-size">
+                <div class="col-md-3 reset-size">
+                    <img src="https://uqoojcos5nobj.vcdn.cloud/uploads/2021/01/a12.png" class="img-customer" alt="">
+                </div>
+                <div class="col-md-3 reset-size">
+                    <img src="https://uqoojcos5nobj.vcdn.cloud/uploads/2021/01/a13.png" class="img-customer" alt="">
+                </div>
+                <div class="col-md-3 reset-size">
+                    <img src="https://uqoojcos5nobj.vcdn.cloud/uploads/2021/01/a14.png" class="img-customer" alt="">
+                </div>
+                <div class="col-md-3 reset-size">
+                    <img src="https://uqoojcos5nobj.vcdn.cloud/uploads/2021/01/a16.png" class="img-customer" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- end Home -->

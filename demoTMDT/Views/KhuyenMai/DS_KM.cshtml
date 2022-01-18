@@ -1,0 +1,52 @@
+﻿@model IEnumerable<demoTMDT.Models.KhuyenMai>
+
+@{
+    ViewBag.Title = "DS_KM";
+    Layout = "~/Views/Shared/DS_KM.cshtml";
+}
+
+<style>
+    table, tr, td{
+        border: none;
+    }
+
+</style>
+
+<table class="table">
+
+    @foreach (var item in Model)
+    {
+        if (item.TinhTrang == "Hoạt Động")
+        {
+        <tr>
+            <td rowspan="4" style="width:410px">
+                <a href="@Url.Action("CT_KM", "KhuyenMai", new { id = item.IdKM })"> <img src="@Url.Content(item.HinhAnh)" style="width:500px; height:300px" /></a>
+            </td>
+            <td style="font-size:30px">
+                @Html.DisplayFor(modelItem => item.ChiTiet)
+            </td>
+
+        </tr>
+        <tr>
+            <td>
+                <h5>Mã KM:</h5>  @Html.DisplayFor(modelItem => item.MaKM)
+            </td>
+
+        </tr>
+        <tr>
+            <td>
+                <h5>Ngày Bắt Đầu:</h5> @Html.DisplayFor(modelItem => item.NgayBatDau)
+            </td>
+
+        </tr>
+        <tr>
+            <td>
+                <h5>Ngày Kết Thúc:</h5> @Html.DisplayFor(modelItem => item.NgayKetThuc)
+            </td>
+        </tr>
+        }
+
+    }
+
+</table>
+

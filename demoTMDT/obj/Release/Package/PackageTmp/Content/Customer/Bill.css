@@ -1,0 +1,123 @@
+﻿.cart {
+    margin: 0px 270px;
+    min-width: 600px;
+    padding: 15px 10px;
+}
+
+.top-cart {
+    margin: 0px auto;
+    max-width: 600px;
+    justify-content: space-between;
+}
+
+    .top-cart a {
+        color: #e10c00;
+    }
+
+        .top-cart a:hover {
+            color: #e10c00;
+        }
+
+.billing-information h5 {
+    font-weight: bold;
+}
+
+.billing-information ul li {
+    list-style: none;
+}
+
+    .billing-information ul li h3 {
+        font-size: 16px;
+        font-weight: bold;
+        margin-right: 5px;
+    }
+
+    .billing-information ul li input {
+        display: block;
+        min-width: 210px;
+        height: 25px;
+        padding: 6px 12px;
+        font-size: 13px;
+        color: #555;
+        background-color: #fff;
+        background-image: none;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+    }
+
+.order-review {
+    padding: 15px;
+}
+
+    .order-review table {
+        border: 1px solid rgba(0, 0, 0, 0.1);
+        margin: 0 -1px 24px 0;
+        text-align: left;
+        width: 100%;
+        border-collapse: separate;
+        border-radius: 5px;
+        border-spacing: 0px;
+    }
+
+        .order-review table thead {
+            background-color: #f1f1f1;
+        }
+
+            .order-review table thead tr th {
+                padding: 5px;
+            }
+
+
+        .order-review table tbody tr td {
+            border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+        }
+
+        .order-review table tbody tr td {
+            padding: 5px;
+        }
+
+            .order-review table tbody tr td i {
+                color: red;
+            }
+
+.fee {
+    color: #e10c00;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.payments {
+    padding: 15px;
+}
+
+    .payments ul {
+        border-bottom: 1px solid #d3ced2;
+    }
+
+        .payments ul li {
+            list-style: none;
+            padding: 0px 0px 10px 10px;
+        }
+
+            .payments ul li p {
+                font-weight: bold;
+                margin-left: 5px;
+            }
+
+
+    .payments button {
+        display: block;
+        position: absolute;
+        right: 500px;
+        bottom: 135px;
+        margin: 0px 0px 15px 15px;
+        padding: 10px 15px;
+        color: white;
+        border: none;
+        background-color: #c21d32;
+        border-radius: 5px;
+    }
+
+        .payments button:hover {
+            background-color: #af2033;
+        }

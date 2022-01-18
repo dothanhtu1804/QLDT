@@ -1,0 +1,58 @@
+﻿@model IEnumerable<demoTMDT.Models.BaoHanh>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/NVCSKH.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            STT
+        </th>
+        <th>
+           Tên KH
+        </th>
+        <th>
+            Ngày Nhận
+        </th>
+        <th>
+            Ngày Trả
+        </th>
+        <th>
+           Ghi Chú
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.IdBaoHanh)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TenKH)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NgayNhan)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NgayTra)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.GhiChu)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new {  id=item.IdBaoHanh }) |
+            @Html.ActionLink("Details", "Details", new {  id=item.IdBaoHanh }) |
+            @Html.ActionLink("Delete", "Delete", new {  id=item.IdBaoHanh  })
+        </td>
+    </tr>
+}
+
+</table>

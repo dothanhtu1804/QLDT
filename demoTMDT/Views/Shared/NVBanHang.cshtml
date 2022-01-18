@@ -1,0 +1,119 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    <link href="~/Content/global.css" rel="stylesheet" />
+    <link href="~/Content/reset.css" rel="stylesheet" />
+    <link href="~/Content/font/fontawesome/all.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" />
+    <script src="Scripts/plugins/dataTables/jquery.dataTables.js"></script>
+    <script src="Scripts/plugins/dataTables/dataTables.fixedHeader.min.js"></script>
+    <script src="Scripts/plugins/dataTables/dataTables.fixedColumns.min.js"></script>
+    <script src="Scripts/plugins/dataTables/html5-button/dataTables.buttons.min.js"></script>
+    <script src="Scripts/plugins/dataTables/html5-button/buttons.print.min.js"></script>
+    <script src="Scripts/plugins/dataTables/html5-button/buttons.html5.min.js"></script>
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<style>
+    #user a {
+        text-decoration: none;
+        color: #326690;
+    }
+
+        #user a i {
+            margin-right: 5px;
+        }
+
+        #user a:hover {
+            color: #182835;
+        }
+</style>
+<body style="background-color:#F2F2F2">
+    <header class="container-fluid " style="background-color: #326690;">
+        <div class="row">
+            <nav class="navbar navbar-light py-0  w-100 border-bottom">
+                <a class="navbar-brand text-white font-weight-bold" href="">
+                    WEB DI ĐỘNG<span style="color:#326690; border-bottom-left-radius:50px;" class="bg-white px-3">Nhóm 9</span>
+                </a>
+                <ul class="list-unstyled m-0">
+                    <li class="nav-item dropdown ">
+                        <a class="nav-link dropdown-toggle text-white" href="" id="navbarDropdown" role="button"
+                           data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <i class="fas fa-user"></i>
+                        </a>
+                        <div class="dropdown-menu" style="position: absolute;top: 40px;left: -140px;"
+                             aria-labelledby="navbarDropdown">
+
+                            <a class="dropdown-item" href="@Url.Action("Index","ListDT")"><i class="fas fa-sign-out-alt"></i> Logout</a>
+                        </div>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <!-- end header -->
+    <section>
+        <div class="main-content container-fluid">
+            <div class="row">
+                <div class="col-md-2 bg-white" style="min-height:700px;">
+
+                    <ul class="list-unstyled ul-left-menu">
+                        <li id="user" class="py-2 border-bottom row ">
+                            <a class="pl-3 " style="text-decoration: none;" href="@Url.Action("Index","HoaDon")"><i class="fas fa-user"></i>Quản lí Hoá đơn</a>
+                        </li>
+                        
+                        <li id="user" class="py-2 border-bottom row ">
+                            <a class="pl-3 " style="text-decoration: none;" href="@Url.Action("DSDT","DienThoai")"><i class="fas fa-user"></i>Danh sách điện thoại</a>
+                        </li>
+                        <li id="user" class="py-2 border-bottom row ">
+                            <a class="pl-3 " style="text-decoration: none;" href="@Url.Action("Index","PhieuMua")"><i class="fas fa-user"></i>Quản Lý đơn hàng</a>
+                        </li>
+
+                        <li id="user" class="py-2 border-bottom row ">
+                            <a class="pl-3 " style="text-decoration: none;" href=""><i class="fas fa-user"></i>Thống Kê</a>
+                            <ul class="list-unstyled m-0">
+                                <li class="nav-item dropdown ">
+                                    <a class="nav-link dropdown-toggle text-white" href="" id="navbarDropdown" role="button" style="color:aqua"
+                                       data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        <i class="fas fa-user"></i>
+                                    </a>
+                                    <div class="dropdown-menu" style="position: absolute;top: 40px;left: -140px;"
+                                         aria-labelledby="navbarDropdown">
+                                        <a class="dropdown-item" href="@Url.Action("BCNhapHang","ThongKe")"><i class="fas fa-sign-out-alt"></i> Thống kê Nhập Hàng</a>
+                                        <a class="dropdown-item" href="@Url.Action("BCbanhang","ThongKe")"><i class="fas fa-sign-out-alt"></i> Thống kê bán hàng</a>
+                                        <a class="dropdown-item" href="@Url.Action("BCDoanhThu","ThongKe")"><i class="fas fa-sign-out-alt"></i> Thống kê Doanh Thu</a>
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+
+
+                    </ul>
+                </div>
+                <div class="col-md-10 ">
+                    <div class="p-4">
+                        <!-- end body trái -->
+
+                        @RenderBody()
+
+                    </div>
+                </div>
+                <!-- end body phải-->
+            </div>
+        </div>
+    </section>
+
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
+
+

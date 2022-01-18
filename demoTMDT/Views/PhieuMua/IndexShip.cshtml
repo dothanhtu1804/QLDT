@@ -1,0 +1,121 @@
+﻿@using demoTMDT.Models;
+@using PagedList.Mvc;
+@model PagedList.PagedList<PhieuMua>
+
+@{
+    ViewBag.Title = "IndexShip";
+    Layout = "~/Views/Shared/NVShip.cshtml";
+}
+
+<h2>Danh Sách Đơn Hàng</h2>
+
+<style>
+
+    ul.list-trang {
+        padding: 0;
+        margin: 0;
+        list-style: none;
+    }
+
+        ul.list-trang li {
+            float: left;
+            padding: 5px 13px;
+            margin: 5px;
+            background: burlywood;
+            display: block;
+        }
+
+            ul.list-trang li a {
+                color: #ffffff;
+                text-align: center;
+                text-decoration: none;
+            }
+</style>
+
+<table class="table">
+    <tr>
+        <th>
+            STT
+        </th>
+        <th>
+            Tên KH
+        </th>
+        <th>
+            SĐT
+        </th>
+        <th>
+            Địa Chỉ
+        </th>
+
+        <th>
+            Ngày Mua
+        </th>
+        <th>
+            Màu sắc
+        </th>
+
+        <th>
+            Khuyến Mãi
+        </th>
+
+        <th>
+            Tên Shipper
+        </th>
+        <th>
+            Tình Trạng
+        </th>
+
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdPM)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenKH)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SĐT)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DiaChi)
+            </td>
+
+
+            <td>
+                @Html.DisplayFor(modelItem => item.NgayMua)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Mau)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.KhuyenMai)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.Ghichu)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TinhTrang)
+            </td>
+
+
+            <td>
+                @Html.ActionLink("Nhận Đơn", "Nhandon", new { id = item.IdPM })
+
+
+            </td>
+        </tr>
+    }
+
+</table>
+
+Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) / @Model.PageCount
+<ul class="list-trang">
+    <li>
+        <a> @Html.PagedListPager(Model, page => Url.Action("IndexShip", new { page = page }))</a>
+    </li>
+</ul>

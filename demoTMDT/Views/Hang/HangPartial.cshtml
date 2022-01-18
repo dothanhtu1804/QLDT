@@ -1,0 +1,19 @@
+﻿@using demoTMDT.Models
+@model List<Hang>
+
+
+    
+        @{
+            foreach (var item in Model)
+            {
+<li>
+    @Html.ActionLink(item.TenHang,"DS_DT","ListDT",
+                  new { Hang = item.IdHang.Trim() },"")
+</li>
+                   
+
+
+            }
+        }
+
+

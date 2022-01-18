@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="6712f75e452847cf9e40ae281362505a" Name="Diagram1">
+        <EntityTypeShape EntityType="clickbuylongtuvyModel.BaoHanh" Width="1.5" PointX="5.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="clickbuylongtuvyModel.ChiTiet" Width="1.5" PointX="7.5" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="clickbuylongtuvyModel.Comment" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="clickbuylongtuvyModel.DienThoai" Width="1.5" PointX="5.25" PointY="7.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="clickbuylongtuvyModel.Hang" Width="1.5" PointX="0.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="clickbuylongtuvyModel.HoaDon" Width="1.5" PointX="10.5" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="clickbuylongtuvyModel.KhachHang" Width="1.5" PointX="9.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="clickbuylongtuvyModel.KhuyenMai" Width="1.5" PointX="10.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="clickbuylongtuvyModel.LichNhap" Width="1.5" PointX="3" PointY="10.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="clickbuylongtuvyModel.NhanVien" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="clickbuylongtuvyModel.PhieuMua" Width="1.5" PointX="8.25" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="clickbuylongtuvyModel.Role" Width="1.5" PointX="0.75" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="clickbuylongtuvyModel.sysdiagram" Width="1.5" PointX="11.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="clickbuylongtuvyModel.TinTuc" Width="1.5" PointX="12.75" PointY="3.75" IsExpanded="true" />
+        <AssociationConnector Association="clickbuylongtuvyModel.FK_ChiTiet_DienThoai" ManuallyRouted="false" />
+        <AssociationConnector Association="clickbuylongtuvyModel.FK_DienThoai_Hang" ManuallyRouted="false" />
+        <AssociationConnector Association="clickbuylongtuvyModel.FK_DienThoai_LichNhap" ManuallyRouted="false" />
+        <AssociationConnector Association="clickbuylongtuvyModel.FK_HoaDon_DienThoai" ManuallyRouted="false" />
+        <AssociationConnector Association="clickbuylongtuvyModel.FK_LichNhap_Hang" ManuallyRouted="false" />
+        <AssociationConnector Association="clickbuylongtuvyModel.FK_HoaDon_PhieuMua" ManuallyRouted="false" />
+        <AssociationConnector Association="clickbuylongtuvyModel.FK_NhanVien_Role" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

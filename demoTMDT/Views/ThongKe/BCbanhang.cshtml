@@ -1,0 +1,62 @@
+﻿@model IEnumerable<demoTMDT.Models.ViewModel>
+
+@{
+    ViewBag.Title = "BCbanhang";
+    Layout = "~/Views/Shared/NVBanHang.cshtml";
+   
+}
+
+<h2 style="text-align:center">Báo Cáo Bán Hàng</h2>
+
+<style>
+    th {
+        text-align:center;
+    }
+    td {
+        text-align:center;
+        font-size:24px;
+    }
+</style>
+
+<table class="table" style="text-align:center">
+    <tr>
+        <th>
+            Tên Điện Thoại
+        </th>
+        <th>
+            Hình ảnh
+        </th>
+        <th>
+            Số Lượng bán được
+        </th>
+        <th>
+            Thành Tiền
+        </th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+    <tr>
+
+        <td>
+            @Html.DisplayFor(modelItem => item.TenDT)
+        </td>
+        <td>
+            <img src="@Url.Content(item.Hinhanh)" height="100" width="100" />
+        </td>
+        <td style="text-align:center">
+            @Html.DisplayFor(modelItem => item.TongSoLuong)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TongTien)VNĐ
+        </td>
+       
+    </tr>
+    }
+    <tr>
+
+        <td colspan="4" id="tong" style="text-align:right;font-size:24px"> Tổng Tiền Bán: @Html.Action("Tongtienban", "ThongKe")VNĐ</td>
+    </tr>
+
+</table>

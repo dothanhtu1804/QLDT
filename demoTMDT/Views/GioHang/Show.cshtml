@@ -1,0 +1,274 @@
+﻿@model demoTMDT.Models.Cart
+
+@{
+    ViewBag.Title = "Show";
+    Layout = Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<script>
+
+    function abc() {
+        var name = document.getElementById("ten").value;
+        var email = document.getElementById("mail").value;
+        var sdt = document.getElementById("sdt").value;
+        var diachi = document.getElementById("diachi").value
+        if (name == "" || name == null) {
+            alert("Vui lòng điền đủ thông tin");
+            return false;
+        }
+        else if (email == "" || email == null) {
+            alert("Vui lòng điền Email");
+            return false;
+        }
+        else if (sdt == "" || sdt == null) {
+            alert("Vui lòng điền số điện thoại");
+            return false;
+        }
+        else if (diachi == "" || diachi == null) {
+            alert("Vui lòng điền địa chỉ");
+            return false;
+        }
+
+    };
+
+    
+
+    function asd() {
+        var dialog = document.querySelector('dialog');
+        dialog.show();
+    };
+
+    function add() {
+        var hthuc = document.getElementById("hthuc").value;
+        var tien = document.getElementById("tien").value;
+        if (hthuc == "Thanh Toán Online") {
+            alert("Thanh Toán Thành Công");
+            return false;
+        } 
+        
+    };
+</script>
+
+
+
+
+
+<style>
+    body {
+        background-color: #ffffff;
+    }
+
+    dialog {
+        width: 800px;
+        border-radius: 10px;
+        justify-content: center;
+    }
+
+    td a {
+        font-size: 20px;
+        text-decoration: none;
+    }
+
+    .btn-default {
+        color: #ff6a00;
+    }
+
+    th {
+        text-align: center;
+    }
+
+    td {
+        text-align: center;
+    }
+</style>
+
+<h1 style="text-align:center; color:royalblue">Giỏ Hàng</h1>
+
+<a class="btn btn-default" href="@Url.Action("Index","ListDT") ">Tiếp tục Mua </a>
+
+@if (Model != null)
+{
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Tên Điện Thoại</th>
+                <th>Giá</th>
+                <th>Hình ảnh</th>
+                <th>Số Lượng</th>
+                <th>Tổng cộng</th>
+                <th>Xóa</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Item)
+            {
+                decimal sum = item._soluongdt * item.giohang.Gia.Value;
+                <tr>
+                    <td>@Html.DisplayFor(Model => item.giohang.TenDT)</td>
+                    <td>@Html.DisplayFor(Model => item.giohang.Gia)</td>
+                    <td><img src="@Url.Content(item.giohang.hinh1)" style="width:150px;height:150px" /></td>
+
+                    <td>
+                        @using (Html.BeginForm("Update_quantity", "GioHang"))
+                        {
+                            <input type="hidden" value="@item.giohang.IdDT" name="Id DT" />
+                            <input type="number" value="@item._soluongdt" name="quantity" />
+                            <input type="submit" value="Update" />
+                        }
+                    </td>
+                    <td> @sum</td>
+                    <td><a href="/GioHang/Remove/@item.giohang.IdDT">Xóa</a></td>
+                </tr>
+            }
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="2"></td>
+                <td colspan="4" style="text-align:center">
+
+                    @using (Html.BeginForm("MuaHang", "GioHang", FormMethod.Post, new { enctype = "multipart/formdata" }))
+                    {
+                        @Html.ValidationSummary(true)
+                        @Html.AntiForgeryToken()
+                        <table style="border-collapse:separate;border-spacing:5px">
+
+                            <tr>
+                                <td>Tên Khách Hàng:</td>
+                                <td><input type="text" name="TenKH" id="ten" /></td>
+
+                                <td></td>
+                            </tr>
+
+                            <tr>
+                                <td>Màu Sắc</td>
+                                <td><input type="text" name="MauSac" /></td>
+                                <td></td>
+                            </tr>
+
+                            <tr>
+                                <td>Email:</td>
+                                <td> <input type="text" name="email" id="mail" /></td>
+                            </tr>
+                            <tr>
+                                <td>Số Điện Thoại:</td>
+                                <td> <input type="text" name="sđt" id="sdt" /></td>
+                            </tr>
+                            <tr>
+                                <td>Ngày Mua:</td>
+                                <td><input type="datetime" value="@DateTime.Now" /></td>
+                                <td></td>
+                            </tr>
+
+                            <tr>
+                                <td>Địa chỉ:</td>
+                                <td><input type="text" name="Diachi" id="diachi" /></td>
+                                <td></td>
+                            </tr>
+
+                            <tr>
+
+                                <td>Hình thức mua</td>
+                                <td><input type="text" name="hinhthuc" id="hthuc" /></td>
+                                <td></td>
+
+                            </tr>
+
+                            <tr>
+                                <td>Khuyến Mãi:</td>
+                                <td><input type="text" name="KM" /> <br /> <br />
+
+                                <td></td>
+                            </tr>
+
+                            <tr>
+                                <td></td>
+                                <td>
+                                    <input type="submit" name="Mua" value="Mua Hàng" class="btn btn-success" onclick="abc()" />
+                                </td>
+                                <td></td>
+                            </tr>
+                            <dialog>
+                                <section>
+                                    <div class="container">
+                                        <div class="row">
+                                            <div class="col-md-5 col-lg-5 block-image">
+                                                <img src="~/Content/Image/ATM.png" class="img-responsive" style="height:420px;width:300px" />
+                                            </div>
+                                            <div class="col-md-6 col-lg-6 block-contact" style="width:800px">
+                                                <h1 style="text-align:center">THANH TOÁN ONLINE</h1>
+                                                <form>
+                                                    <div class="form-group">
+                                                        <h5 style="text-align:left">Ngân hàng người Nhận:</h5>  <input type="text" class="form-control" value="vietcombank" disabled style="color: #2c2c2c;background-color: #d5d5d5;" />
+                                                    </div>
+                                                    <div class="form-group">
+                                                        <h5 style="text-align:left">Số thẻ người Nhận:</h5><input type="text" class="form-control" value="0071001255736" disabled style="color: #2c2c2c;background-color: #d5d5d5;" />
+                                                    </div>
+                                                    <div class="form-group">
+                                                        <h5 style="text-align:left">Ngân hàng người Gửi:</h5>
+                                                        <select class="form-control" data-val="true" data-val-number="The field access must be a number." data-val-required="The access field is required." id="access" name="access">
+                                                            <option selected="selected" value="0"></option>
+                                                            <option value="1">Vietcombank</option>
+                                                            <option value="2">BIDV</option>
+                                                            <option value="3">AgriBank</option>
+                                                            <option value="4">Techcombank</option>
+                                                            <option value="5">VietinBank</option>
+                                                            <option value="6">SacomBank</option>
+                                                            <option value="7">VPBank</option>
+                                                        </select>
+                                                    </div>
+                                                    <div class="form-group">
+                                                        <h5 style="text-align:left">Số thẻ người Gửi:</h5>   <input type="text" class="form-control" autofocus />
+                                                    </div>
+
+                                                    <div class="form-group">
+                                                        <h5 style="text-align:left">Số Tiền:</h5> <input type="text" class="form-control" id="tien" />
+                                                    </div>
+                                                    <input type="submit" name="Mua" value="OK" class="btn btn-success" style="width:200px" onclick="add()" />
+                                                </form>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </section>
+                            </dialog>
+                        </table>
+                    }
+
+
+
+                </td>
+            <tr>
+                <td colspan="2"></td>
+                <td colspan="4"  >
+                    <table style="border-collapse:separate;border-spacing:2px">
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                                <td>
+                                    <input type="submit" name="Mua" value="Thanh Toán online" class="btn btn-success" onclick="asd()" />
+                                </td>
+                                <td></td>
+                            </tr>
+                    </table>
+                
+                </td>
+                
+            </tr>
+
+            <tr>
+
+                <td colspan="5" id="tong" style="text-align:right;font-size:24px"> Tổng Cộng: @Model.Total_money()</td>
+            </tr>
+        </tfoot>
+        
+    </table>
+    
+}
+}
+

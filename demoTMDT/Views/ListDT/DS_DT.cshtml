@@ -1,0 +1,179 @@
+﻿@model IEnumerable<demoTMDT.Models.DienThoai>
+
+@{
+    ViewBag.Title = "DS_DT";
+    Layout = "~/Views/Shared/DSDT.cshtml";
+}
+
+
+<style>
+    .banner {
+        background-color: red;
+        text-align: center;
+        padding: 10px;
+        margin-bottom: 0px;
+        color: white;
+    }
+
+    #formsearch {
+        margin: 20px 0px;
+    }
+
+        #formsearch input {
+            background-color: #e2dede;
+            margin-left: 41px;
+            width: 80%;
+            border: none;
+            outline: none;
+            border-radius: 2px;
+            padding: 5px 0px 5px 10px;
+        }
+
+        #formsearch button {
+            position: absolute;
+            top: 25px;
+            left: 235px;
+            background: none;
+            border: none;
+        }
+
+        .list-hang{
+            padding-left:30px;
+        }
+
+    .list-hang ul {
+        list-style: none;
+        padding-left: 0px;
+    }
+
+
+
+        .list-hang ul li a {
+            text-decoration: none;
+            position: absolute;
+            display: block;
+            padding: 20px;
+            color: red;
+            font-weight: bold;
+            font-size: 25px;
+            position: relative;
+            border: 5px solid #ff6b6b;
+            border-radius: 15px;
+            margin-bottom: 10px;
+        }
+
+            .list-hang ul li a:hover {
+                color: white;
+                opacity: 0.9;
+            }
+
+            .list-hang ul li a:before {
+                content: "";
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 0;
+                height: 100%;
+                background-color: red;
+                border: 1px solid red;
+                border-radius: 10px;
+                transition: 0.25s;
+                z-index: -1;
+                transition: ease 0.5s;
+            }
+
+            .list-hang ul li a:hover:before {
+                width: 100%;
+            }
+
+
+    .product-item {
+        border: 1px solid #f6f6f6;
+    }
+
+    .product-item .img-product img {
+        width: 150px;
+        height: 200px;
+        transition: all 0.5s ease;
+        margin: 0px auto;
+        object-fit: contain;
+        display: block;
+    }
+
+        .product-item .img-product img:hover {
+            width: 80%;
+        }
+
+    .product-item a {
+        text-decoration: none;
+        color: black;
+    }
+
+        .product-item a:hover {
+            text-decoration: none;
+        }
+
+    .product-infomation {
+        padding: 15px;
+    }
+
+        .product-infomation p {
+            font-weight: bold;
+        }
+
+        .product-infomation span {
+            color: #e12600;
+            font-weight: bold;
+        }
+
+</style>
+
+
+<div class="container2" style="background-color: white; margin-top:20px;">
+    <h2 class="banner">ĐIỆN THOẠI</h2>
+    <div class="row" style="width: 100%; margin:0px 0px 0px -15px;">
+        <div class="col-md-3">
+            @using (Html.BeginForm("TimKiem", "ListDT"))
+            {
+            <div id="formsearch">
+                <form action="">
+                    <input type="text" placeholder="Bạn cần tìm gì?">
+                    <button><i class="fa fa-search"></i></button>
+                </form>
+            </div>
+            }
+                <div class="list-hang">
+                    <ul>
+                       
+                            @{Html.RenderAction("HangPartial", "Hang"); }
+                    </ul>
+                </div>
+            </div>
+        <div class="col-md-9">
+            <div class="list-product">
+                <div class="row reset-size d-flex" style="flex-wrap: wrap;">
+                    @foreach (var pro in Model)
+                    {
+                        <div class="col-md-3 reset-size">
+                            <div class="product-item">
+                                <a href="@Url.Action("CT_SP", "ListDT", new { id = pro.IdDT })">
+                                    <div class="img-product">
+                                        <img src="@Url.Content(pro.hinh1)"
+                                             alt="">
+                                    </div>
+                                </a>
+                                <a href="@Url.Action("CT_SP", "ListDT", new { id = pro.IdDT })">
+                                    <div class="product-infomation">
+                                        <p class="reset-size">@Html.DisplayFor(Model => pro.TenDT)</p>
+                                        <span>@Html.DisplayFor(Model => pro.Gia) đ</span>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    }
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end list product -->

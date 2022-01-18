@@ -1,0 +1,61 @@
+﻿@model IEnumerable<demoTMDT.Models.DienThoai>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/KhachHang.cshtml";
+}
+
+<style>
+
+    .product-item {
+        border: 1px solid #f6f6f6;
+    }
+
+        .product-item .img-product img {
+            width: 50%;
+            height: 200px;
+            transition: all 0.5s ease;
+            margin: 0px auto;
+            object-fit: scale-down;
+            display: block;
+        }
+
+            .product-item .img-product img:hover {
+                width: 60%;
+            }
+
+        .product-item a {
+            text-decoration: none;
+            color: black;
+        }
+
+            .product-item a:hover {
+                text-decoration: none;
+            }
+</style>
+
+@foreach (var pro in Model)
+{
+    <div class="col-md-3 reset-size">
+        <div class="product-item">
+            <a href="@Url.Action("CT_SP", "ListDT" , new { id = pro.IdDT } )">
+
+                <div class="img-product">
+                    <img src="@Url.Content(pro.hinh1)" />
+
+                </div>
+
+
+                <div class="product-infomation">
+
+                    <p class="reset-size">@Html.DisplayFor(Model => pro.TenDT)</p>
+                    <span>@Html.DisplayFor(Model => pro.Gia)đ</span>
+                </div>
+            </a>
+        </div>
+    </div>
+}
+
+
+
+

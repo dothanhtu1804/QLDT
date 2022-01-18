@@ -1,0 +1,64 @@
+﻿@model IEnumerable<demoTMDT.Models.LichNhap>
+
+@{
+    ViewBag.Title = "DSNhap";
+    Layout = "~/Views/Shared/NVBanHang.cshtml";
+}
+
+<h2>Danh Sách Nhập Kho</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.IdLichNhap)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.idHang)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TenSanPham)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NgayNhap)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SoLuong)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DonGia)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ThanhTien)
+        </th>
+        
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.IdLichNhap)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.idHang)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TenSanPham)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NgayNhap)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SoLuong)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DonGia)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ThanhTien)
+        </td>
+        
+    </tr>
+}
+
+</table>

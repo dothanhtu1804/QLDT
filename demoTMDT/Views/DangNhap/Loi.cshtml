@@ -1,0 +1,34 @@
+﻿@{
+    ViewBag.Title = "Loi";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<link href="~/Content/Login.css" rel="stylesheet" />
+
+
+<div class="container3">
+    <div class="form-login-wrapper">
+        <div id="form-login">
+            <h1>Đăng nhập Thất Bại</h1>
+
+            @using (Html.BeginForm("LoginAdmin", "DangNhap", FormMethod.Post, new { enctype = "multipart/formdata" }))
+            {
+                <input type="text" placeholder="Sai Tài Khoản" name="TaiKhoan">
+                <input type="password" placeholder="Sai Mật Khẩu" name="MatKhau">
+                <div class="d-flex" style="justify-content:space-between; padding: 5px 50px;">
+                    
+                    <a href="">Tài Khoản hoặc Mật Khẩu có thể nhập sai</a>
+                </div>
+                <input type="submit" name="Dăng Nhập" value="Đăng Nhập" class="btn btn-success" />
+
+            }
+
+        </div>
+    </div>
+</div>
+
+
+
+

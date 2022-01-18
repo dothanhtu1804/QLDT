@@ -1,0 +1,150 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    <link href="~/Content/layout1.css" rel="stylesheet" />
+    <link href="~/Content/global.css" rel="stylesheet" />
+    <link href="~/Content/reset.css" rel="stylesheet" />
+    <link href="~/Content/all1.css" rel="stylesheet" />
+    <link href="~/Content/all2.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div id="primary">
+        <header>
+            <div class="container" style="justify-content: space-around;">
+                <a href="@Url.Action("Index","Home")">
+                    <img src="https://clickbuy.com.vn/clickbuy.png" alt="">
+                </a>
+                <form id="searchForm" action="">
+                    <input type="text" placeholder="Bạn cần tìm gì?">
+                    <button><i class="fa fa-search"></i></button>
+                </form>
+                <ul id="main-menu">
+                    <li>
+                        <a href="@Url.Action("DS_DT","ListDT")"><i class="fas fa-mobile-alt"></i>Điện thoại</a>
+                    </li>
+
+                    <li><a href="@Url.Action("DS_TT","TinTuc")"><i class="fas fa-newspaper"></i>Tin tức</a></li>
+                    <li><a href="@Url.Action("DS_KM","KhuyenMai")"><i class="fas fa-vote-yea"></i>Khuyến Mãi</a></li>
+
+                    <li><a href="/GioHang/Show"><i class="fas fa-shopping-cart"></i>Giỏ hàng</a></li>
+                    <li><a href="@Url.Action("TimKiem","HoaDon")"><i class="fas fa-history"></i>Tra cứu</a></li>
+                    <li><a href="@Url.Action("IndexAdmin","DangNhap")"><i class="fas fa-user-shield"></i>Đăng nhập</a></li>
+                </ul>
+            </div>
+        </header>
+
+        @RenderBody()
+
+
+
+
+        <!-- end footer -->
+    </div>
+    <footer>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-3">
+                    <div class="support-information" style="padding-left:10px;">
+                        <h3>THÔNG TIN HỖ TRỢ</h3>
+                        <div class="d-flex">
+                            <div class="dash" style="margin-right: 5px;"></div>
+                            <div class="dash2"></div>
+                        </div>
+                        <a href="">Chính sách bảo hành</a>
+                        <a href="">Chính sách bảo hành Iphone-Ipad</a>
+                        <a href="">Bảo hành Xiaomi chính hãng</a>
+                        <a href="">Chính sách mua hàng Online</a>
+                        <a href="">Mua hàng trả góp</a>
+                        <a href="">Chính sách bảo mật thông tin khách hàng</a>
+                        <img src="https://uqoojcos5nobj.vcdn.cloud/dathongbao.png" alt="">
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="contact-information">
+                        <h3>THÔNG TIN LIÊN LẠC</h3>
+                        <div class="d-flex">
+                            <div class="dash" style="margin-right: 5px;"></div>
+                            <div class="dash2"></div>
+                        </div>
+                        <a href="">Hotline bán hàng:<br><strong>0966 06 2468</strong></a>
+                        <a href="">Hotline bảo hành, kĩ thuật:<br><strong>1900 633 471</strong></a>
+                        <a href="">Hotline hỗ trợ phần mềm:<br><strong>096 282 4422</strong></a>
+                        <a href="">Hotline phản ánh chất lượng dịch vụ:<br><strong>1900 633 471</strong></a>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="northern-address">
+                        <h3>KHU VỰC MIỀN BẮC</h3>
+                        <div class="d-flex">
+                            <div class="dash" style="margin-right: 5px;"></div>
+                            <div class="dash2"></div>
+                        </div>
+                        <div class="d-flex" style="justify-content:start;margin-top: 5px;">
+                            <i class="fas fa-map-marked"></i>
+                            <p class="reset-size">111 Trần Đăng Ninh, Cầu Giấy, Hà Nội:</p>
+                        </div>
+                        <p>0976 73 246</p>
+                        <div class="d-flex" style="justify-content:start;margin-top: 5px;">
+                            <i class="fas fa-map-marked"></i>
+                            <p class="reset-size">446 Xã Đàn, Đống Đa, Hà Nội:</p>
+                        </div>
+                        <p> 096 111 2468</p>
+                        <div class="d-flex" style="justify-content:start;margin-top: 5px;">
+                            <i class="fas fa-map-marked"></i>
+                            <p class="reset-size">118 Thái hà, Đống Đa, Hà Nội:</p>
+                        </div>
+                        <p>096 424 2468</p>
+                        <div class="d-flex" style="justify-content:start;margin-top: 5px;">
+                            <i class="fas fa-map-marked"></i>
+                            <p class="reset-size">312 Nguyễn Trãi, P.Trung Văn, Q.Nam Từ Liêm, Hà Nội:</p>
+                        </div>
+                        <p>094 698 2468</p>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="southern-address">
+                        <h3>KHU VỰC MIỀN NAM</h3>
+                        <div class="d-flex">
+                            <div class="dash" style="margin-right: 5px;"></div>
+                            <div class="dash2"></div>
+                        </div>
+                        <div class="d-flex" style="justify-content:start;margin-top: 5px;">
+                            <i class="fas fa-map-marked"></i>
+                            <p class="reset-size">379 Hoàng Văn Thụ, P2, Q.Tân Bình, HCM:</p>
+                        </div>
+                        <p>0984 768 260</p>
+                        <div class="d-flex" style="justify-content:start;margin-top: 5px;">
+                            <i class="fas fa-map-marked"></i>
+                            <p class="reset-size">290 Hoàng Văn Thụ, P4, Q.Tân Bình, HCM:</p>
+                        </div>
+                        <p>0968 371 357</p>
+                        <div class="d-flex" style="justify-content:start;margin-top: 5px;">
+                            <i class="fas fa-map-marked"></i>
+                            <p class="reset-size">466 Quang Trung, P.10, Q.Gò Vấp, HCM:</p>
+                        </div>
+                        <p>082 639 2468</p>
+                        <div class="d-flex" style="justify-content:start;margin-top: 5px;">
+                            <i class="fas fa-map-marked"></i>
+                            <p class="reset-size">76 Gò Dầu, P.Tân Quý, Q.Tân Phú:</p>
+                        </div>
+                        <p>0866 577 357</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

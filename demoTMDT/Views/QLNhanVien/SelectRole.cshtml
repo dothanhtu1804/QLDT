@@ -1,0 +1,3 @@
+﻿@model demoTMDT.Models.Role
+
+@Html.DropDownListFor(model => model.IDQuyen, new SelectList(Model.Listrole.OrderBy(model => model.TenQuyen), "IDQuyen", "TenQuyen", "--Select--"))

@@ -1,0 +1,24 @@
+﻿@{
+    ViewBag.Title = "DangNhap";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link href="~/Content/Login.css" rel="stylesheet" />
+
+
+<div class="container3">
+    <div class="form-login-wrapper">
+        <div id="form-login">
+            <h1>Đăng nhập</h1>
+            <div class="dash3"></div>
+            @using (Html.BeginForm("LoginAdmin", "DangNhap", FormMethod.Post, new { enctype = "multipart/formdata" }))
+            {
+                <input type="text" placeholder="Tên đăng nhập" name="TaiKhoan">
+                <input type="password" placeholder="Password" name="MatKhau">
+
+                <input type="submit" name="Dăng Nhập" value="Đăng Nhập" class="btn btn-success" />
+
+            }
+        </div>
+    </div>
+</div>
